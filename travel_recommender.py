@@ -10,8 +10,8 @@ model = pickle.load(open('model.pkl', 'rb'))
 label_encoders = pickle.load(open('label_encoders.pkl', 'rb'))
 
 # Load datasets
-destinations_df = pd.read_csv("code and dataset/Expanded_Destinations.csv")
-userhistory_df = pd.read_csv("code and dataset/Final_Updated_Expanded_UserHistory.csv")
+destinations_df = pd.read_csv("Destinations.csv")
+userhistory_df = pd.read_csv("UserHistory.csv")
 df = pd.read_csv("code and dataset/final_df.csv")
 
 # Create user-item matrix and compute user similarity
