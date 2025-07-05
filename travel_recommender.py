@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 from sklearn.metrics.pairwise import cosine_similarity
+import random
 
 # Load model and encoders
 features = ['DestinationName', 'Category', 'BestTimeToVisit', 'Preferences', 'NumberOfAdults', 'NumberOfChildren']
@@ -49,9 +50,9 @@ st.title("✈️ Personalized Travel Recommendation System")
 st.markdown("Enter your details below to get travel destination recommendations.")
 
 with st.form("user_input_form"):
-    user_id = st.number_input("Enter your User ID", min_value=1, step=1)
+    # Remove user_id input, instead randomize on submit
     name = st.selectbox("Select Destination Name", destinations_df['DestinationName'].unique())
-    type_ = st.selectbox("Select Destination Category", destinations_df['Type'].unique())
+    type_ = st.selectbox("Select Destination Category", destinations_df['Category'].unique())
     best_time = st.selectbox("Best Time To Visit", destinations_df['BestTimeToVisit'].unique())
     preferences = st.selectbox("Your Preferences", df['Preferences'].unique())
     num_adults = st.slider("Number of Adults", 1, 10, 2)
@@ -60,8 +61,12 @@ with st.form("user_input_form"):
     submitted = st.form_submit_button("Get Recommendations")
 
 if submitted:
+    # Randomly select user_id from [1, 2, 3, 4]
+    user_id = random.choice([1, 2, 3, 4])
+    st.write(f"🎲 Randomly selected User ID: {user_id}")
+
     if user_id not in userhistory_df['UserID'].values:
-        st.warning("User ID not found in user history data. Please enter a valid User ID.")
+        st.warning("User ID not found in user history data. Please try again.")
     else:
         user_input = {
             'DestinationName': name,
@@ -74,7 +79,7 @@ if submitted:
 
         # Get collaborative recommendations
         recommendations = collaborative_recommend(user_id, user_similarity, user_item_matrix, destinations_df)
-        
+
         # Get popularity prediction for user input
         predicted_popularity = recommend_destinations(user_input, model, label_encoders, features)
 
@@ -86,7 +91,7 @@ if submitted:
                 st.markdown(f"**{row['DestinationName']}**")
                 st.markdown(f"- Type: {row['Category']}")
                 st.markdown(f"- Best Time to Visit: {row['BestTimeToVisit']}")
-                st.markdown(f"- Popularity Score: {row['Popularity']:.2f}")
+                st.markdown(f"- Popularity Score: {row['PopularityScore']:.2f}")
                 st.markdown("---")
         else:
             st.info("No recommendations available.")
