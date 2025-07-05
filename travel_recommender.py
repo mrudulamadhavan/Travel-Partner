@@ -5,14 +5,14 @@ import pickle
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load model and encoders
-features = ['Name_x', 'Type', 'BestTimeToVisit', 'Preferences', 'NumberOfAdults', 'NumberOfChildren']
+features = ['DestinationName', 'Category', 'BestTimeToVisit', 'Preferences', 'NumberOfAdults', 'NumberOfChildren']
 model = pickle.load(open('model.pkl', 'rb'))
 label_encoders = pickle.load(open('label_encoders.pkl', 'rb'))
 
 # Load datasets
 destinations_df = pd.read_csv("Destinations.csv")
 userhistory_df = pd.read_csv("UserHistory.csv")
-df = pd.read_csv("code and dataset/final_df.csv")
+df = pd.read_csv("Travel_Data.csv")
 
 # Create user-item matrix and compute user similarity
 user_item_matrix = userhistory_df.pivot(index='UserID', columns='DestinationID', values='ExperienceRating')
@@ -26,7 +26,7 @@ def collaborative_recommend(user_id, user_similarity, user_item_matrix, destinat
     similar_user_ratings = user_item_matrix.iloc[similar_users_idx].mean(axis=0)
     recommended_destinations_ids = similar_user_ratings.sort_values(ascending=False).head(5).index
     recommendations = destinations_df[destinations_df['DestinationID'].isin(recommended_destinations_ids)][[
-        'DestinationID', 'Name', 'Type', 'Popularity', 'BestTimeToVisit'
+        'DestinationID', 'DestinationName', 'Category', 'PopularityScore', 'BestTimeToVisit'
     ]]
     return recommendations
 
@@ -50,8 +50,8 @@ st.markdown("Enter your details below to get travel destination recommendations.
 
 with st.form("user_input_form"):
     user_id = st.number_input("Enter your User ID", min_value=1, step=1)
-    name = st.selectbox("Select Destination Name", destinations_df['Name'].unique())
-    type_ = st.selectbox("Select Destination Type", destinations_df['Type'].unique())
+    name = st.selectbox("Select Destination Name", destinations_df['DestinationName'].unique())
+    type_ = st.selectbox("Select Destination Category", destinations_df['Category'].unique())
     best_time = st.selectbox("Best Time To Visit", destinations_df['BestTimeToVisit'].unique())
     preferences = st.selectbox("Your Preferences", df['Preferences'].unique())
     num_adults = st.slider("Number of Adults", 1, 10, 2)
@@ -64,8 +64,8 @@ if submitted:
         st.warning("User ID not found in user history data. Please enter a valid User ID.")
     else:
         user_input = {
-            'Name_x': name,
-            'Type': type_,
+            'DestinationName': name,
+            'Category': type_,
             'BestTimeToVisit': best_time,
             'Preferences': preferences,
             'NumberOfAdults': num_adults,
@@ -83,8 +83,8 @@ if submitted:
         if not recommendations.empty:
             st.subheader(f"Top destination recommendations for User ID {user_id}:")
             for _, row in recommendations.iterrows():
-                st.markdown(f"**{row['Name']}**")
-                st.markdown(f"- Type: {row['Type']}")
+                st.markdown(f"**{row['DestinationName']}**")
+                st.markdown(f"- Type: {row['Category']}")
                 st.markdown(f"- Best Time to Visit: {row['BestTimeToVisit']}")
                 st.markdown(f"- Popularity Score: {row['Popularity']:.2f}")
                 st.markdown("---")
