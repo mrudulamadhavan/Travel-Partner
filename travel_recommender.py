@@ -23,79 +23,88 @@ image_map = {
 }
 destinations_df['ImageURL'] = destinations_df['DestinationName'].map(image_map)
 
-# Prediction function
-def predict_popularity(user_input):
-    encoded = {}
-    for f in features:
-        if f in label_encoders:
-            encoded[f] = label_encoders[f].transform([user_input[f]])[0]
-        else:
-            encoded[f] = user_input[f]
-    df = pd.DataFrame([encoded])
-    score = model.predict(df)[0]
-    return round(score, 3)
+import streamlit as st
+import pandas as pd
+import numpy as np
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+# Load data
+destinations_df = pd.read_csv("Destinations.csv")
+reviews_df = pd.read_csv("Reviews.csv")
+userhistory_df = pd.read_csv("UserHistory.csv")
+users_df = pd.read_csv("Users.csv")
+
+# Merge data
+df = reviews_df.merge(destinations_df, on='DestinationID').merge(userhistory_df, on='UserID').merge(users_df, on='UserID')
+df.drop_duplicates(inplace=True)
+
+# Feature engineering
+df['features'] = df['Type'] + ' ' + df['State'] + ' ' + df['BestTimeToVisit'] + " " + df['Preferences']
+vectorizer = TfidfVectorizer(stop_words='english')
+destination_features = vectorizer.fit_transform(df['features'])
+cosine_sim = cosine_similarity(destination_features)
+
+# User-item matrix for collaborative filtering
+user_item_matrix = userhistory_df.pivot(index='UserID', columns='DestinationID', values='ExperienceRating').fillna(0)
+user_similarity = cosine_similarity(user_item_matrix)
+
+# Recommendation functions
+def recommend_content(user_id, top_n=3):
+    visited = userhistory_df[userhistory_df['UserID'] == user_id]['DestinationID'].values
+    if len(visited) == 0:
+        return pd.DataFrame()
+    
+    similarity_scores = np.sum(cosine_sim[visited - 1], axis=0)
+    sorted_indices = np.argsort(similarity_scores)[::-1]
+    recommendations = []
+    
+    for idx in sorted_indices:
+        dest_id = destinations_df.iloc[idx]['DestinationID']
+        if dest_id not in visited:
+            row = destinations_df.iloc[idx]
+            recommendations.append(row)
+        if len(recommendations) == top_n:
+            break
+    
+    return pd.DataFrame(recommendations)
+
+def recommend_collab(user_id, top_n=3):
+    if user_id - 1 not in range(user_similarity.shape[0]):
+        return pd.DataFrame()
+    
+    sim_scores = user_similarity[user_id - 1]
+    sim_users = np.argsort(sim_scores)[::-1]
+    sim_users = sim_users[sim_users != (user_id - 1)][:top_n]
+    
+    avg_ratings = user_item_matrix.iloc[sim_users].mean(axis=0)
+    top_dest_ids = avg_ratings.sort_values(ascending=False).head(top_n).index
+    return destinations_df[destinations_df['DestinationID'].isin(top_dest_ids)]
 
 # Streamlit UI
-st.set_page_config(page_title="Travel Buddy", layout="wide")
-st.title("🧭 Travel Buddy – Personalized Destination Recommender")
+st.set_page_config(page_title="Travel Recommendation App", layout="wide")
+st.title("🏝️ Personalized Travel Recommendation System")
+st.markdown("Get destination suggestions based on your past preferences!")
 
-with st.form("user_input_form"):
-    col1, col2 = st.columns(2)
+user_id = st.number_input("Enter your User ID:", min_value=1, max_value=users_df['UserID'].max(), value=1, step=1)
 
-    with col1:
-        dest = st.selectbox("Destination", destinations_df['DestinationName'].unique())
-        cat = st.selectbox("Category", ['City', 'Historical', 'Beach', 'Nature', 'Adventure'])
-        state = st.selectbox("State", ['Rajasthan', 'Uttar Pradesh', 'Kerala', 'Goa', 'Ladakh'])
-        time = st.selectbox("Best Time to Visit", ['Oct-Mar', 'Nov-Feb', 'Dec-May', 'Apr-Jun', 'May-Sep'])
+if st.button("Recommend Destinations"):
+    content_df = recommend_content(user_id)
+    collab_df = recommend_collab(user_id)
+    
+    hybrid_df = pd.concat([content_df, collab_df]).drop_duplicates(subset=['DestinationID'])
+    hybrid_df = hybrid_df.sort_values(by='Popularity', ascending=False).head(3).reset_index(drop=True)
 
-    with col2:
-        prefs = st.multiselect("Preferences (Select up to 2)", 
-                               ['Beaches', 'Historical', 'Nature', 'Adventure', 'City'], max_selections=2)
-        gender = st.radio("Gender", ['Male', 'Female', 'Other'], horizontal=True)
-        adults = st.slider("Number of Adults", 1, 10, 2)
-        children = st.slider("Number of Children", 0, 10, 1)
+    if not hybrid_df.empty:
+        st.success(f"Top {len(hybrid_df)} Destination Recommendations for User {user_id}:\n")
+        for i, row in hybrid_df.iterrows():
+            with st.container():
+                st.subheader(f"{row['DestinationName']}")
+                st.image(row['ImageURL'], use_column_width=True)
+                st.markdown(f"📍 **Location**: {row['State']}")
+                st.markdown(f"📅 **Best Time to Visit**: {row['BestTimeToVisit']}")
+                st.markdown(f"⭐ **Popularity Score**: {round(row['Popularity'], 2)}")
+                st.markdown("---")
+    else:
+        st.warning("No recommendations found for this user.")
 
-    submit = st.form_submit_button("Recommend Destinations")
-
-# Handle submission
-if submit:
-    preferences = ", ".join(prefs)
-    user_input = {
-        'DestinationName': dest,
-        'Category': cat,
-        'State': state,
-        'BestTimeToVisit': time,
-        'Preferences': preferences,
-        'Gender': gender,
-        'NumberOfAdults': adults,
-        'NumberOfChildren': children,
-    }
-
-    # Predict popularity for all destinations
-    scores = []
-    for name in destinations_df['DestinationName'].unique():
-        user_input['DestinationName'] = name
-        try:
-            score = predict_popularity(user_input)
-        except Exception:
-            score = 0
-        scores.append(score)
-
-    destinations_df['PredictedPopularity'] = scores
-    top_destinations = destinations_df.sort_values(by='PredictedPopularity', ascending=False).head(3)
-
-    st.success("✅ Top 3 Recommended Destinations for You:")
-
-    for _, row in top_destinations.iterrows():
-        st.markdown(f"### {row['DestinationName']} ({row['PredictedPopularity']:.2f})")
-        cols = st.columns([1.5, 3])
-        with cols[0]:
-            st.image(row['ImageURL'], width=200, caption=row['DestinationName'])
-        with cols[1]:
-            st.markdown(f"**Location:** {row['State']}")
-            st.markdown(f"**Category:** {row['Category']}")
-            st.markdown(f"**Best Time to Visit:** {row['BestTimeToVisit']}")
-            st.markdown(f"**Popularity Score:** {row['PredictedPopularity']:.3f}")
-        st.markdown("---")
-
-st.sidebar.markdown("🚀 Powered by Machine Learning")
