@@ -82,17 +82,17 @@ if submit:
     top_df = results_df.sort_values(by='Popularity Score', ascending=False).head(3).reset_index(drop=True)
 
     if not top_df.empty:
-    st.success("✅ Top 3 Destination Recommendations:")
-    cols = st.columns(len(top_df))  # create columns equal to number of destinations
-    for idx, row in top_df.iterrows():
-        with cols[idx]:
-            st.subheader(row['DestinationName'])
-            if pd.notna(row['ImageURL']):
-                st.image(row['ImageURL'], use_column_width=True)
-            st.markdown(f"📍 **Location**: {row['Location']}")
-            st.markdown(f"📅 **Best Time to Visit**: {row['BestTimeToVisit']}")
-            st.markdown(f"⭐ **Predicted Popularity Score**: {row['Popularity Score']}")
-            st.markdown("---")
+                st.success("✅ Top 3 Destination Recommendations:")
+                cols = st.columns(len(top_df))  # create columns equal to number of destinations
+                for idx, row in top_df.iterrows():
+                    with cols[idx]:
+                        st.subheader(row['DestinationName'])
+                        if pd.notna(row['ImageURL']):
+                            st.image(row['ImageURL'], use_column_width=True)
+                        st.markdown(f"📍 **Location**: {row['Location']}")
+                        st.markdown(f"📅 **Best Time to Visit**: {row['BestTimeToVisit']}")
+                        st.markdown(f"⭐ **Predicted Popularity Score**: {row['Popularity Score']}")
+                        st.markdown("---")
     else:
         st.warning("⚠️ No suitable destinations found based on your preferences.")
 
