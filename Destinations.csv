@@ -1,0 +1,1001 @@
+DestinationID,DestinationName,State,Type,Popularity,BestTimeToVisit
+1,Taj Mahal,Uttar Pradesh,Historical,8.691906259,Nov-Feb
+2,Goa Beaches,Goa,Beach,8.605031858,Nov-Mar
+3,Jaipur City,Rajasthan,City,9.225372008,Oct-Mar
+4,Kerala Backwaters,Kerala,Nature,7.977385536,Sep-Mar
+5,Leh Ladakh,Jammu and Kashmir,Adventure,8.399821878,Apr-Jun
+6,Taj Mahal,Uttar Pradesh,Historical,7.648949544,Nov-Feb
+7,Goa Beaches,Goa,Beach,9.145068342,Nov-Mar
+8,Jaipur City,Rajasthan,City,9.458704539,Oct-Mar
+9,Kerala Backwaters,Kerala,Nature,9.260450137,Sep-Mar
+10,Leh Ladakh,Jammu and Kashmir,Adventure,8.811952082,Apr-Jun
+11,Taj Mahal,Uttar Pradesh,Historical,8.177709283,Nov-Feb
+12,Goa Beaches,Goa,Beach,8.084317506,Nov-Mar
+13,Jaipur City,Rajasthan,City,9.114721643,Oct-Mar
+14,Kerala Backwaters,Kerala,Nature,8.551426231,Sep-Mar
+15,Leh Ladakh,Jammu and Kashmir,Adventure,9.297389087,Apr-Jun
+16,Taj Mahal,Uttar Pradesh,Historical,8.337332882,Nov-Feb
+17,Goa Beaches,Goa,Beach,7.524150402,Nov-Mar
+18,Jaipur City,Rajasthan,City,8.332572924,Oct-Mar
+19,Kerala Backwaters,Kerala,Nature,9.017090236,Sep-Mar
+20,Leh Ladakh,Jammu and Kashmir,Adventure,8.930902395,Apr-Jun
+21,Taj Mahal,Uttar Pradesh,Historical,9.321865627,Nov-Feb
+22,Goa Beaches,Goa,Beach,7.745073501,Nov-Mar
+23,Jaipur City,Rajasthan,City,7.883349652,Oct-Mar
+24,Kerala Backwaters,Kerala,Nature,9.182423104,Sep-Mar
+25,Leh Ladakh,Jammu and Kashmir,Adventure,9.416526131,Apr-Jun
+26,Taj Mahal,Uttar Pradesh,Historical,9.088205553,Nov-Feb
+27,Goa Beaches,Goa,Beach,7.504499934,Nov-Mar
+28,Jaipur City,Rajasthan,City,8.471855315,Oct-Mar
+29,Kerala Backwaters,Kerala,Nature,8.32051439,Sep-Mar
+30,Leh Ladakh,Jammu and Kashmir,Adventure,7.930637907,Apr-Jun
+31,Taj Mahal,Uttar Pradesh,Historical,8.534267494,Nov-Feb
+32,Goa Beaches,Goa,Beach,7.806330196,Nov-Mar
+33,Jaipur City,Rajasthan,City,7.684440449,Oct-Mar
+34,Kerala Backwaters,Kerala,Nature,8.206055639,Sep-Mar
+35,Leh Ladakh,Jammu and Kashmir,Adventure,8.115627955,Apr-Jun
+36,Taj Mahal,Uttar Pradesh,Historical,8.152769658,Nov-Feb
+37,Goa Beaches,Goa,Beach,8.874757886,Nov-Mar
+38,Jaipur City,Rajasthan,City,9.458687608,Oct-Mar
+39,Kerala Backwaters,Kerala,Nature,9.276722027,Sep-Mar
+40,Leh Ladakh,Jammu and Kashmir,Adventure,9.451473448,Apr-Jun
+41,Taj Mahal,Uttar Pradesh,Historical,9.45205627,Nov-Feb
+42,Goa Beaches,Goa,Beach,8.854828173,Nov-Mar
+43,Jaipur City,Rajasthan,City,8.935833781,Oct-Mar
+44,Kerala Backwaters,Kerala,Nature,8.844208014,Sep-Mar
+45,Leh Ladakh,Jammu and Kashmir,Adventure,8.987615299,Apr-Jun
+46,Taj Mahal,Uttar Pradesh,Historical,8.666633063,Nov-Feb
+47,Goa Beaches,Goa,Beach,7.726020725,Nov-Mar
+48,Jaipur City,Rajasthan,City,9.072662351,Oct-Mar
+49,Kerala Backwaters,Kerala,Nature,8.015972831,Sep-Mar
+50,Leh Ladakh,Jammu and Kashmir,Adventure,8.180477326,Apr-Jun
+51,Taj Mahal,Uttar Pradesh,Historical,8.329362265,Nov-Feb
+52,Goa Beaches,Goa,Beach,8.298754591,Nov-Mar
+53,Jaipur City,Rajasthan,City,8.399568313,Oct-Mar
+54,Kerala Backwaters,Kerala,Nature,8.116931496,Sep-Mar
+55,Leh Ladakh,Jammu and Kashmir,Adventure,7.560629647,Apr-Jun
+56,Taj Mahal,Uttar Pradesh,Historical,8.779339175,Nov-Feb
+57,Goa Beaches,Goa,Beach,8.061326287,Nov-Mar
+58,Jaipur City,Rajasthan,City,8.648115222,Oct-Mar
+59,Kerala Backwaters,Kerala,Nature,9.490122865,Sep-Mar
+60,Leh Ladakh,Jammu and Kashmir,Adventure,8.090294276,Apr-Jun
+61,Taj Mahal,Uttar Pradesh,Historical,9.255411352,Nov-Feb
+62,Goa Beaches,Goa,Beach,9.379786904,Nov-Mar
+63,Jaipur City,Rajasthan,City,9.202094231,Oct-Mar
+64,Kerala Backwaters,Kerala,Nature,7.995381522,Sep-Mar
+65,Leh Ladakh,Jammu and Kashmir,Adventure,8.264285623,Apr-Jun
+66,Taj Mahal,Uttar Pradesh,Historical,8.657185751,Nov-Feb
+67,Goa Beaches,Goa,Beach,7.593468222,Nov-Mar
+68,Jaipur City,Rajasthan,City,7.599766915,Oct-Mar
+69,Kerala Backwaters,Kerala,Nature,9.251449512,Sep-Mar
+70,Leh Ladakh,Jammu and Kashmir,Adventure,8.302199786,Apr-Jun
+71,Taj Mahal,Uttar Pradesh,Historical,7.918856059,Nov-Feb
+72,Goa Beaches,Goa,Beach,9.498128983,Nov-Mar
+73,Jaipur City,Rajasthan,City,9.365362187,Oct-Mar
+74,Kerala Backwaters,Kerala,Nature,8.618525609,Sep-Mar
+75,Leh Ladakh,Jammu and Kashmir,Adventure,8.051674305,Apr-Jun
+76,Taj Mahal,Uttar Pradesh,Historical,9.019776841,Nov-Feb
+77,Goa Beaches,Goa,Beach,8.724365523,Nov-Mar
+78,Jaipur City,Rajasthan,City,8.697245496,Oct-Mar
+79,Kerala Backwaters,Kerala,Nature,8.482629445,Sep-Mar
+80,Leh Ladakh,Jammu and Kashmir,Adventure,9.167168853,Apr-Jun
+81,Taj Mahal,Uttar Pradesh,Historical,8.113730398,Nov-Feb
+82,Goa Beaches,Goa,Beach,8.067416541,Nov-Mar
+83,Jaipur City,Rajasthan,City,9.255202769,Oct-Mar
+84,Kerala Backwaters,Kerala,Nature,9.333748543,Sep-Mar
+85,Leh Ladakh,Jammu and Kashmir,Adventure,7.877439168,Apr-Jun
+86,Taj Mahal,Uttar Pradesh,Historical,8.093807911,Nov-Feb
+87,Goa Beaches,Goa,Beach,8.322799779,Nov-Mar
+88,Jaipur City,Rajasthan,City,9.018383604,Oct-Mar
+89,Kerala Backwaters,Kerala,Nature,8.686130971,Sep-Mar
+90,Leh Ladakh,Jammu and Kashmir,Adventure,7.864848872,Apr-Jun
+91,Taj Mahal,Uttar Pradesh,Historical,8.775155892,Nov-Feb
+92,Goa Beaches,Goa,Beach,7.842354722,Nov-Mar
+93,Jaipur City,Rajasthan,City,9.116298425,Oct-Mar
+94,Kerala Backwaters,Kerala,Nature,7.67865796,Sep-Mar
+95,Leh Ladakh,Jammu and Kashmir,Adventure,8.187165617,Apr-Jun
+96,Taj Mahal,Uttar Pradesh,Historical,8.984287702,Nov-Feb
+97,Goa Beaches,Goa,Beach,8.882535315,Nov-Mar
+98,Jaipur City,Rajasthan,City,7.511446247,Oct-Mar
+99,Kerala Backwaters,Kerala,Nature,8.154277486,Sep-Mar
+100,Leh Ladakh,Jammu and Kashmir,Adventure,8.550622272,Apr-Jun
+101,Taj Mahal,Uttar Pradesh,Historical,9.357876872,Nov-Feb
+102,Goa Beaches,Goa,Beach,7.901206475,Nov-Mar
+103,Jaipur City,Rajasthan,City,9.293866271,Oct-Mar
+104,Kerala Backwaters,Kerala,Nature,9.032056857,Sep-Mar
+105,Leh Ladakh,Jammu and Kashmir,Adventure,9.36769562,Apr-Jun
+106,Taj Mahal,Uttar Pradesh,Historical,8.49482356,Nov-Feb
+107,Goa Beaches,Goa,Beach,8.670099992,Nov-Mar
+108,Jaipur City,Rajasthan,City,8.180179995,Oct-Mar
+109,Kerala Backwaters,Kerala,Nature,8.024075275,Sep-Mar
+110,Leh Ladakh,Jammu and Kashmir,Adventure,8.885980061,Apr-Jun
+111,Taj Mahal,Uttar Pradesh,Historical,8.979764649,Nov-Feb
+112,Goa Beaches,Goa,Beach,8.196505601,Nov-Mar
+113,Jaipur City,Rajasthan,City,7.576534513,Oct-Mar
+114,Kerala Backwaters,Kerala,Nature,9.46714704,Sep-Mar
+115,Leh Ladakh,Jammu and Kashmir,Adventure,8.717346793,Apr-Jun
+116,Taj Mahal,Uttar Pradesh,Historical,8.636073234,Nov-Feb
+117,Goa Beaches,Goa,Beach,9.219798014,Nov-Mar
+118,Jaipur City,Rajasthan,City,7.698985654,Oct-Mar
+119,Kerala Backwaters,Kerala,Nature,8.95364316,Sep-Mar
+120,Leh Ladakh,Jammu and Kashmir,Adventure,7.928950862,Apr-Jun
+121,Taj Mahal,Uttar Pradesh,Historical,8.624112218,Nov-Feb
+122,Goa Beaches,Goa,Beach,7.791202933,Nov-Mar
+123,Jaipur City,Rajasthan,City,9.31595004,Oct-Mar
+124,Kerala Backwaters,Kerala,Nature,7.921320004,Sep-Mar
+125,Leh Ladakh,Jammu and Kashmir,Adventure,8.136472031,Apr-Jun
+126,Taj Mahal,Uttar Pradesh,Historical,8.271757062,Nov-Feb
+127,Goa Beaches,Goa,Beach,8.132745077,Nov-Mar
+128,Jaipur City,Rajasthan,City,7.513479447,Oct-Mar
+129,Kerala Backwaters,Kerala,Nature,9.066328358,Sep-Mar
+130,Leh Ladakh,Jammu and Kashmir,Adventure,9.460634458,Apr-Jun
+131,Taj Mahal,Uttar Pradesh,Historical,8.853926859,Nov-Feb
+132,Goa Beaches,Goa,Beach,8.188672008,Nov-Mar
+133,Jaipur City,Rajasthan,City,7.813559347,Oct-Mar
+134,Kerala Backwaters,Kerala,Nature,7.743269418,Sep-Mar
+135,Leh Ladakh,Jammu and Kashmir,Adventure,9.398122785,Apr-Jun
+136,Taj Mahal,Uttar Pradesh,Historical,8.153562079,Nov-Feb
+137,Goa Beaches,Goa,Beach,8.863570277,Nov-Mar
+138,Jaipur City,Rajasthan,City,9.195643437,Oct-Mar
+139,Kerala Backwaters,Kerala,Nature,8.426322913,Sep-Mar
+140,Leh Ladakh,Jammu and Kashmir,Adventure,8.907807741,Apr-Jun
+141,Taj Mahal,Uttar Pradesh,Historical,7.618133332,Nov-Feb
+142,Goa Beaches,Goa,Beach,7.601039201,Nov-Mar
+143,Jaipur City,Rajasthan,City,8.299735699,Oct-Mar
+144,Kerala Backwaters,Kerala,Nature,7.830541228,Sep-Mar
+145,Leh Ladakh,Jammu and Kashmir,Adventure,9.388011429,Apr-Jun
+146,Taj Mahal,Uttar Pradesh,Historical,8.37384412,Nov-Feb
+147,Goa Beaches,Goa,Beach,7.770934467,Nov-Mar
+148,Jaipur City,Rajasthan,City,7.692741092,Oct-Mar
+149,Kerala Backwaters,Kerala,Nature,7.812523861,Sep-Mar
+150,Leh Ladakh,Jammu and Kashmir,Adventure,8.86387233,Apr-Jun
+151,Taj Mahal,Uttar Pradesh,Historical,9.450175079,Nov-Feb
+152,Goa Beaches,Goa,Beach,9.000248319,Nov-Mar
+153,Jaipur City,Rajasthan,City,9.072635914,Oct-Mar
+154,Kerala Backwaters,Kerala,Nature,9.484797547,Sep-Mar
+155,Leh Ladakh,Jammu and Kashmir,Adventure,7.933121409,Apr-Jun
+156,Taj Mahal,Uttar Pradesh,Historical,8.967583118,Nov-Feb
+157,Goa Beaches,Goa,Beach,7.607643334,Nov-Mar
+158,Jaipur City,Rajasthan,City,8.533439719,Oct-Mar
+159,Kerala Backwaters,Kerala,Nature,8.01756636,Sep-Mar
+160,Leh Ladakh,Jammu and Kashmir,Adventure,8.03668464,Apr-Jun
+161,Taj Mahal,Uttar Pradesh,Historical,7.738547102,Nov-Feb
+162,Goa Beaches,Goa,Beach,7.54477047,Nov-Mar
+163,Jaipur City,Rajasthan,City,8.168780569,Oct-Mar
+164,Kerala Backwaters,Kerala,Nature,7.818366934,Sep-Mar
+165,Leh Ladakh,Jammu and Kashmir,Adventure,7.554650205,Apr-Jun
+166,Taj Mahal,Uttar Pradesh,Historical,7.967520191,Nov-Feb
+167,Goa Beaches,Goa,Beach,9.185298189,Nov-Mar
+168,Jaipur City,Rajasthan,City,7.634504263,Oct-Mar
+169,Kerala Backwaters,Kerala,Nature,7.686748943,Sep-Mar
+170,Leh Ladakh,Jammu and Kashmir,Adventure,7.848982806,Apr-Jun
+171,Taj Mahal,Uttar Pradesh,Historical,7.721043377,Nov-Feb
+172,Goa Beaches,Goa,Beach,9.486279939,Nov-Mar
+173,Jaipur City,Rajasthan,City,7.72225221,Oct-Mar
+174,Kerala Backwaters,Kerala,Nature,8.360692115,Sep-Mar
+175,Leh Ladakh,Jammu and Kashmir,Adventure,8.866219314,Apr-Jun
+176,Taj Mahal,Uttar Pradesh,Historical,8.165093922,Nov-Feb
+177,Goa Beaches,Goa,Beach,9.446896779,Nov-Mar
+178,Jaipur City,Rajasthan,City,8.544351694,Oct-Mar
+179,Kerala Backwaters,Kerala,Nature,8.299149271,Sep-Mar
+180,Leh Ladakh,Jammu and Kashmir,Adventure,8.091363134,Apr-Jun
+181,Taj Mahal,Uttar Pradesh,Historical,9.236840653,Nov-Feb
+182,Goa Beaches,Goa,Beach,8.332585022,Nov-Mar
+183,Jaipur City,Rajasthan,City,8.872498744,Oct-Mar
+184,Kerala Backwaters,Kerala,Nature,7.816345212,Sep-Mar
+185,Leh Ladakh,Jammu and Kashmir,Adventure,8.242881343,Apr-Jun
+186,Taj Mahal,Uttar Pradesh,Historical,8.118994457,Nov-Feb
+187,Goa Beaches,Goa,Beach,8.843079931,Nov-Mar
+188,Jaipur City,Rajasthan,City,8.202625979,Oct-Mar
+189,Kerala Backwaters,Kerala,Nature,8.649611763,Sep-Mar
+190,Leh Ladakh,Jammu and Kashmir,Adventure,9.150588626,Apr-Jun
+191,Taj Mahal,Uttar Pradesh,Historical,8.072256876,Nov-Feb
+192,Goa Beaches,Goa,Beach,8.419905789,Nov-Mar
+193,Jaipur City,Rajasthan,City,7.672819737,Oct-Mar
+194,Kerala Backwaters,Kerala,Nature,7.764994889,Sep-Mar
+195,Leh Ladakh,Jammu and Kashmir,Adventure,9.092972455,Apr-Jun
+196,Taj Mahal,Uttar Pradesh,Historical,8.393643742,Nov-Feb
+197,Goa Beaches,Goa,Beach,9.43385527,Nov-Mar
+198,Jaipur City,Rajasthan,City,8.2558932,Oct-Mar
+199,Kerala Backwaters,Kerala,Nature,9.112874174,Sep-Mar
+200,Leh Ladakh,Jammu and Kashmir,Adventure,7.77167519,Apr-Jun
+201,Taj Mahal,Uttar Pradesh,Historical,7.653509094,Nov-Feb
+202,Goa Beaches,Goa,Beach,8.246718656,Nov-Mar
+203,Jaipur City,Rajasthan,City,9.042840186,Oct-Mar
+204,Kerala Backwaters,Kerala,Nature,7.963483704,Sep-Mar
+205,Leh Ladakh,Jammu and Kashmir,Adventure,8.456754675,Apr-Jun
+206,Taj Mahal,Uttar Pradesh,Historical,9.282226276,Nov-Feb
+207,Goa Beaches,Goa,Beach,8.560557284,Nov-Mar
+208,Jaipur City,Rajasthan,City,9.232664943,Oct-Mar
+209,Kerala Backwaters,Kerala,Nature,7.65054329,Sep-Mar
+210,Leh Ladakh,Jammu and Kashmir,Adventure,8.277611273,Apr-Jun
+211,Taj Mahal,Uttar Pradesh,Historical,8.188261258,Nov-Feb
+212,Goa Beaches,Goa,Beach,9.149424673,Nov-Mar
+213,Jaipur City,Rajasthan,City,7.971646077,Oct-Mar
+214,Kerala Backwaters,Kerala,Nature,8.3782447,Sep-Mar
+215,Leh Ladakh,Jammu and Kashmir,Adventure,7.584036611,Apr-Jun
+216,Taj Mahal,Uttar Pradesh,Historical,9.3672022,Nov-Feb
+217,Goa Beaches,Goa,Beach,9.144764642,Nov-Mar
+218,Jaipur City,Rajasthan,City,9.034168574,Oct-Mar
+219,Kerala Backwaters,Kerala,Nature,9.237610355,Sep-Mar
+220,Leh Ladakh,Jammu and Kashmir,Adventure,8.869504608,Apr-Jun
+221,Taj Mahal,Uttar Pradesh,Historical,8.719051822,Nov-Feb
+222,Goa Beaches,Goa,Beach,8.240843057,Nov-Mar
+223,Jaipur City,Rajasthan,City,8.936949816,Oct-Mar
+224,Kerala Backwaters,Kerala,Nature,8.077912596,Sep-Mar
+225,Leh Ladakh,Jammu and Kashmir,Adventure,8.793334589,Apr-Jun
+226,Taj Mahal,Uttar Pradesh,Historical,7.721478394,Nov-Feb
+227,Goa Beaches,Goa,Beach,8.882153319,Nov-Mar
+228,Jaipur City,Rajasthan,City,8.534275498,Oct-Mar
+229,Kerala Backwaters,Kerala,Nature,7.60393591,Sep-Mar
+230,Leh Ladakh,Jammu and Kashmir,Adventure,7.619039723,Apr-Jun
+231,Taj Mahal,Uttar Pradesh,Historical,7.78825614,Nov-Feb
+232,Goa Beaches,Goa,Beach,8.789144742,Nov-Mar
+233,Jaipur City,Rajasthan,City,7.782973981,Oct-Mar
+234,Kerala Backwaters,Kerala,Nature,9.42096054,Sep-Mar
+235,Leh Ladakh,Jammu and Kashmir,Adventure,8.734064598,Apr-Jun
+236,Taj Mahal,Uttar Pradesh,Historical,8.424772792,Nov-Feb
+237,Goa Beaches,Goa,Beach,8.160740974,Nov-Mar
+238,Jaipur City,Rajasthan,City,8.127785897,Oct-Mar
+239,Kerala Backwaters,Kerala,Nature,8.757659225,Sep-Mar
+240,Leh Ladakh,Jammu and Kashmir,Adventure,8.518452202,Apr-Jun
+241,Taj Mahal,Uttar Pradesh,Historical,7.668642705,Nov-Feb
+242,Goa Beaches,Goa,Beach,9.164688152,Nov-Mar
+243,Jaipur City,Rajasthan,City,9.068862539,Oct-Mar
+244,Kerala Backwaters,Kerala,Nature,9.011521245,Sep-Mar
+245,Leh Ladakh,Jammu and Kashmir,Adventure,9.459953314,Apr-Jun
+246,Taj Mahal,Uttar Pradesh,Historical,8.617311411,Nov-Feb
+247,Goa Beaches,Goa,Beach,9.153509849,Nov-Mar
+248,Jaipur City,Rajasthan,City,7.879027093,Oct-Mar
+249,Kerala Backwaters,Kerala,Nature,8.894284044,Sep-Mar
+250,Leh Ladakh,Jammu and Kashmir,Adventure,9.151090723,Apr-Jun
+251,Taj Mahal,Uttar Pradesh,Historical,8.041916757,Nov-Feb
+252,Goa Beaches,Goa,Beach,8.836459649,Nov-Mar
+253,Jaipur City,Rajasthan,City,8.125034099,Oct-Mar
+254,Kerala Backwaters,Kerala,Nature,9.143167495,Sep-Mar
+255,Leh Ladakh,Jammu and Kashmir,Adventure,8.59789687,Apr-Jun
+256,Taj Mahal,Uttar Pradesh,Historical,8.403655362,Nov-Feb
+257,Goa Beaches,Goa,Beach,8.284116199,Nov-Mar
+258,Jaipur City,Rajasthan,City,7.617165381,Oct-Mar
+259,Kerala Backwaters,Kerala,Nature,8.382675748,Sep-Mar
+260,Leh Ladakh,Jammu and Kashmir,Adventure,7.917003558,Apr-Jun
+261,Taj Mahal,Uttar Pradesh,Historical,8.083688761,Nov-Feb
+262,Goa Beaches,Goa,Beach,7.758783398,Nov-Mar
+263,Jaipur City,Rajasthan,City,9.407835019,Oct-Mar
+264,Kerala Backwaters,Kerala,Nature,8.025088515,Sep-Mar
+265,Leh Ladakh,Jammu and Kashmir,Adventure,9.141722726,Apr-Jun
+266,Taj Mahal,Uttar Pradesh,Historical,8.918773158,Nov-Feb
+267,Goa Beaches,Goa,Beach,8.813848708,Nov-Mar
+268,Jaipur City,Rajasthan,City,8.015626863,Oct-Mar
+269,Kerala Backwaters,Kerala,Nature,7.588087849,Sep-Mar
+270,Leh Ladakh,Jammu and Kashmir,Adventure,8.434929745,Apr-Jun
+271,Taj Mahal,Uttar Pradesh,Historical,9.232289962,Nov-Feb
+272,Goa Beaches,Goa,Beach,7.935193697,Nov-Mar
+273,Jaipur City,Rajasthan,City,9.324373463,Oct-Mar
+274,Kerala Backwaters,Kerala,Nature,7.777024607,Sep-Mar
+275,Leh Ladakh,Jammu and Kashmir,Adventure,8.388578038,Apr-Jun
+276,Taj Mahal,Uttar Pradesh,Historical,7.591070677,Nov-Feb
+277,Goa Beaches,Goa,Beach,8.694303253,Nov-Mar
+278,Jaipur City,Rajasthan,City,9.120385789,Oct-Mar
+279,Kerala Backwaters,Kerala,Nature,7.84120695,Sep-Mar
+280,Leh Ladakh,Jammu and Kashmir,Adventure,7.639341731,Apr-Jun
+281,Taj Mahal,Uttar Pradesh,Historical,9.430864466,Nov-Feb
+282,Goa Beaches,Goa,Beach,8.888987617,Nov-Mar
+283,Jaipur City,Rajasthan,City,8.219242612,Oct-Mar
+284,Kerala Backwaters,Kerala,Nature,9.014866522,Sep-Mar
+285,Leh Ladakh,Jammu and Kashmir,Adventure,8.992391384,Apr-Jun
+286,Taj Mahal,Uttar Pradesh,Historical,9.36200147,Nov-Feb
+287,Goa Beaches,Goa,Beach,9.171525351,Nov-Mar
+288,Jaipur City,Rajasthan,City,8.172782288,Oct-Mar
+289,Kerala Backwaters,Kerala,Nature,7.844009444,Sep-Mar
+290,Leh Ladakh,Jammu and Kashmir,Adventure,7.934186546,Apr-Jun
+291,Taj Mahal,Uttar Pradesh,Historical,8.571800372,Nov-Feb
+292,Goa Beaches,Goa,Beach,8.259128922,Nov-Mar
+293,Jaipur City,Rajasthan,City,7.534360803,Oct-Mar
+294,Kerala Backwaters,Kerala,Nature,8.55304694,Sep-Mar
+295,Leh Ladakh,Jammu and Kashmir,Adventure,9.301807912,Apr-Jun
+296,Taj Mahal,Uttar Pradesh,Historical,8.013451633,Nov-Feb
+297,Goa Beaches,Goa,Beach,7.633292997,Nov-Mar
+298,Jaipur City,Rajasthan,City,8.804695152,Oct-Mar
+299,Kerala Backwaters,Kerala,Nature,8.966364802,Sep-Mar
+300,Leh Ladakh,Jammu and Kashmir,Adventure,7.799198882,Apr-Jun
+301,Taj Mahal,Uttar Pradesh,Historical,8.634308851,Nov-Feb
+302,Goa Beaches,Goa,Beach,7.649281077,Nov-Mar
+303,Jaipur City,Rajasthan,City,9.356796584,Oct-Mar
+304,Kerala Backwaters,Kerala,Nature,8.611208289,Sep-Mar
+305,Leh Ladakh,Jammu and Kashmir,Adventure,8.111872494,Apr-Jun
+306,Taj Mahal,Uttar Pradesh,Historical,8.448064464,Nov-Feb
+307,Goa Beaches,Goa,Beach,8.419860353,Nov-Mar
+308,Jaipur City,Rajasthan,City,8.122052828,Oct-Mar
+309,Kerala Backwaters,Kerala,Nature,8.122685723,Sep-Mar
+310,Leh Ladakh,Jammu and Kashmir,Adventure,7.862071974,Apr-Jun
+311,Taj Mahal,Uttar Pradesh,Historical,8.093952306,Nov-Feb
+312,Goa Beaches,Goa,Beach,7.923067613,Nov-Mar
+313,Jaipur City,Rajasthan,City,8.16049555,Oct-Mar
+314,Kerala Backwaters,Kerala,Nature,7.923207094,Sep-Mar
+315,Leh Ladakh,Jammu and Kashmir,Adventure,7.74668619,Apr-Jun
+316,Taj Mahal,Uttar Pradesh,Historical,8.033280743,Nov-Feb
+317,Goa Beaches,Goa,Beach,8.617795776,Nov-Mar
+318,Jaipur City,Rajasthan,City,7.799132449,Oct-Mar
+319,Kerala Backwaters,Kerala,Nature,8.84963556,Sep-Mar
+320,Leh Ladakh,Jammu and Kashmir,Adventure,8.353685271,Apr-Jun
+321,Taj Mahal,Uttar Pradesh,Historical,9.146376228,Nov-Feb
+322,Goa Beaches,Goa,Beach,7.875971585,Nov-Mar
+323,Jaipur City,Rajasthan,City,8.130587469,Oct-Mar
+324,Kerala Backwaters,Kerala,Nature,7.662104839,Sep-Mar
+325,Leh Ladakh,Jammu and Kashmir,Adventure,7.767402106,Apr-Jun
+326,Taj Mahal,Uttar Pradesh,Historical,8.206421939,Nov-Feb
+327,Goa Beaches,Goa,Beach,8.382390141,Nov-Mar
+328,Jaipur City,Rajasthan,City,8.63148984,Oct-Mar
+329,Kerala Backwaters,Kerala,Nature,8.2148979,Sep-Mar
+330,Leh Ladakh,Jammu and Kashmir,Adventure,7.635735288,Apr-Jun
+331,Taj Mahal,Uttar Pradesh,Historical,9.082935361,Nov-Feb
+332,Goa Beaches,Goa,Beach,8.94287466,Nov-Mar
+333,Jaipur City,Rajasthan,City,7.632343967,Oct-Mar
+334,Kerala Backwaters,Kerala,Nature,8.71066537,Sep-Mar
+335,Leh Ladakh,Jammu and Kashmir,Adventure,9.310237104,Apr-Jun
+336,Taj Mahal,Uttar Pradesh,Historical,9.268792308,Nov-Feb
+337,Goa Beaches,Goa,Beach,8.576362703,Nov-Mar
+338,Jaipur City,Rajasthan,City,8.139654822,Oct-Mar
+339,Kerala Backwaters,Kerala,Nature,8.568613099,Sep-Mar
+340,Leh Ladakh,Jammu and Kashmir,Adventure,9.05157873,Apr-Jun
+341,Taj Mahal,Uttar Pradesh,Historical,8.408281457,Nov-Feb
+342,Goa Beaches,Goa,Beach,9.379923843,Nov-Mar
+343,Jaipur City,Rajasthan,City,7.873481446,Oct-Mar
+344,Kerala Backwaters,Kerala,Nature,9.162324692,Sep-Mar
+345,Leh Ladakh,Jammu and Kashmir,Adventure,9.315488066,Apr-Jun
+346,Taj Mahal,Uttar Pradesh,Historical,8.969950616,Nov-Feb
+347,Goa Beaches,Goa,Beach,7.920959928,Nov-Mar
+348,Jaipur City,Rajasthan,City,8.013552976,Oct-Mar
+349,Kerala Backwaters,Kerala,Nature,8.186215305,Sep-Mar
+350,Leh Ladakh,Jammu and Kashmir,Adventure,7.950916522,Apr-Jun
+351,Taj Mahal,Uttar Pradesh,Historical,8.488999182,Nov-Feb
+352,Goa Beaches,Goa,Beach,7.946596795,Nov-Mar
+353,Jaipur City,Rajasthan,City,9.29747082,Oct-Mar
+354,Kerala Backwaters,Kerala,Nature,7.760694703,Sep-Mar
+355,Leh Ladakh,Jammu and Kashmir,Adventure,8.057546789,Apr-Jun
+356,Taj Mahal,Uttar Pradesh,Historical,8.606176984,Nov-Feb
+357,Goa Beaches,Goa,Beach,8.314502185,Nov-Mar
+358,Jaipur City,Rajasthan,City,7.738761293,Oct-Mar
+359,Kerala Backwaters,Kerala,Nature,7.832207354,Sep-Mar
+360,Leh Ladakh,Jammu and Kashmir,Adventure,8.117132891,Apr-Jun
+361,Taj Mahal,Uttar Pradesh,Historical,8.134764369,Nov-Feb
+362,Goa Beaches,Goa,Beach,8.908499372,Nov-Mar
+363,Jaipur City,Rajasthan,City,8.85700532,Oct-Mar
+364,Kerala Backwaters,Kerala,Nature,8.029543991,Sep-Mar
+365,Leh Ladakh,Jammu and Kashmir,Adventure,8.878382688,Apr-Jun
+366,Taj Mahal,Uttar Pradesh,Historical,9.266030293,Nov-Feb
+367,Goa Beaches,Goa,Beach,8.445148546,Nov-Mar
+368,Jaipur City,Rajasthan,City,8.008251816,Oct-Mar
+369,Kerala Backwaters,Kerala,Nature,7.526677668,Sep-Mar
+370,Leh Ladakh,Jammu and Kashmir,Adventure,8.35737822,Apr-Jun
+371,Taj Mahal,Uttar Pradesh,Historical,8.320896476,Nov-Feb
+372,Goa Beaches,Goa,Beach,7.82461091,Nov-Mar
+373,Jaipur City,Rajasthan,City,9.276956976,Oct-Mar
+374,Kerala Backwaters,Kerala,Nature,9.270981322,Sep-Mar
+375,Leh Ladakh,Jammu and Kashmir,Adventure,8.448235371,Apr-Jun
+376,Taj Mahal,Uttar Pradesh,Historical,9.483879397,Nov-Feb
+377,Goa Beaches,Goa,Beach,7.922286151,Nov-Mar
+378,Jaipur City,Rajasthan,City,9.364747011,Oct-Mar
+379,Kerala Backwaters,Kerala,Nature,7.710901823,Sep-Mar
+380,Leh Ladakh,Jammu and Kashmir,Adventure,8.658172609,Apr-Jun
+381,Taj Mahal,Uttar Pradesh,Historical,9.300525031,Nov-Feb
+382,Goa Beaches,Goa,Beach,8.487140997,Nov-Mar
+383,Jaipur City,Rajasthan,City,8.706955116,Oct-Mar
+384,Kerala Backwaters,Kerala,Nature,8.632562616,Sep-Mar
+385,Leh Ladakh,Jammu and Kashmir,Adventure,8.051203902,Apr-Jun
+386,Taj Mahal,Uttar Pradesh,Historical,9.463332001,Nov-Feb
+387,Goa Beaches,Goa,Beach,8.763403697,Nov-Mar
+388,Jaipur City,Rajasthan,City,9.151665484,Oct-Mar
+389,Kerala Backwaters,Kerala,Nature,9.409146178,Sep-Mar
+390,Leh Ladakh,Jammu and Kashmir,Adventure,8.854728504,Apr-Jun
+391,Taj Mahal,Uttar Pradesh,Historical,8.937176477,Nov-Feb
+392,Goa Beaches,Goa,Beach,8.659032747,Nov-Mar
+393,Jaipur City,Rajasthan,City,8.429521722,Oct-Mar
+394,Kerala Backwaters,Kerala,Nature,8.884525797,Sep-Mar
+395,Leh Ladakh,Jammu and Kashmir,Adventure,8.879069809,Apr-Jun
+396,Taj Mahal,Uttar Pradesh,Historical,9.113864702,Nov-Feb
+397,Goa Beaches,Goa,Beach,8.739477476,Nov-Mar
+398,Jaipur City,Rajasthan,City,8.332950034,Oct-Mar
+399,Kerala Backwaters,Kerala,Nature,8.376325562,Sep-Mar
+400,Leh Ladakh,Jammu and Kashmir,Adventure,9.120122756,Apr-Jun
+401,Taj Mahal,Uttar Pradesh,Historical,8.033376557,Nov-Feb
+402,Goa Beaches,Goa,Beach,8.050919516,Nov-Mar
+403,Jaipur City,Rajasthan,City,8.578600555,Oct-Mar
+404,Kerala Backwaters,Kerala,Nature,9.289386994,Sep-Mar
+405,Leh Ladakh,Jammu and Kashmir,Adventure,8.26630952,Apr-Jun
+406,Taj Mahal,Uttar Pradesh,Historical,8.138246013,Nov-Feb
+407,Goa Beaches,Goa,Beach,8.685967653,Nov-Mar
+408,Jaipur City,Rajasthan,City,7.78975361,Oct-Mar
+409,Kerala Backwaters,Kerala,Nature,7.695324251,Sep-Mar
+410,Leh Ladakh,Jammu and Kashmir,Adventure,9.056239629,Apr-Jun
+411,Taj Mahal,Uttar Pradesh,Historical,8.284126728,Nov-Feb
+412,Goa Beaches,Goa,Beach,8.056589741,Nov-Mar
+413,Jaipur City,Rajasthan,City,9.164900244,Oct-Mar
+414,Kerala Backwaters,Kerala,Nature,8.418529332,Sep-Mar
+415,Leh Ladakh,Jammu and Kashmir,Adventure,8.650437609,Apr-Jun
+416,Taj Mahal,Uttar Pradesh,Historical,9.32701478,Nov-Feb
+417,Goa Beaches,Goa,Beach,7.799317153,Nov-Mar
+418,Jaipur City,Rajasthan,City,8.571570123,Oct-Mar
+419,Kerala Backwaters,Kerala,Nature,8.16565426,Sep-Mar
+420,Leh Ladakh,Jammu and Kashmir,Adventure,9.333012518,Apr-Jun
+421,Taj Mahal,Uttar Pradesh,Historical,8.912423771,Nov-Feb
+422,Goa Beaches,Goa,Beach,7.962932744,Nov-Mar
+423,Jaipur City,Rajasthan,City,8.427042499,Oct-Mar
+424,Kerala Backwaters,Kerala,Nature,8.016517304,Sep-Mar
+425,Leh Ladakh,Jammu and Kashmir,Adventure,7.677908499,Apr-Jun
+426,Taj Mahal,Uttar Pradesh,Historical,7.742346086,Nov-Feb
+427,Goa Beaches,Goa,Beach,8.049399731,Nov-Mar
+428,Jaipur City,Rajasthan,City,9.229663136,Oct-Mar
+429,Kerala Backwaters,Kerala,Nature,8.1864846,Sep-Mar
+430,Leh Ladakh,Jammu and Kashmir,Adventure,7.52816081,Apr-Jun
+431,Taj Mahal,Uttar Pradesh,Historical,8.459730623,Nov-Feb
+432,Goa Beaches,Goa,Beach,8.839626409,Nov-Mar
+433,Jaipur City,Rajasthan,City,8.683728793,Oct-Mar
+434,Kerala Backwaters,Kerala,Nature,8.707253749,Sep-Mar
+435,Leh Ladakh,Jammu and Kashmir,Adventure,8.316001911,Apr-Jun
+436,Taj Mahal,Uttar Pradesh,Historical,7.728114076,Nov-Feb
+437,Goa Beaches,Goa,Beach,7.987106149,Nov-Mar
+438,Jaipur City,Rajasthan,City,8.465558406,Oct-Mar
+439,Kerala Backwaters,Kerala,Nature,8.208388595,Sep-Mar
+440,Leh Ladakh,Jammu and Kashmir,Adventure,8.224548105,Apr-Jun
+441,Taj Mahal,Uttar Pradesh,Historical,7.865953291,Nov-Feb
+442,Goa Beaches,Goa,Beach,8.459808777,Nov-Mar
+443,Jaipur City,Rajasthan,City,9.225300609,Oct-Mar
+444,Kerala Backwaters,Kerala,Nature,8.308543308,Sep-Mar
+445,Leh Ladakh,Jammu and Kashmir,Adventure,7.845173227,Apr-Jun
+446,Taj Mahal,Uttar Pradesh,Historical,8.091809666,Nov-Feb
+447,Goa Beaches,Goa,Beach,8.888745118,Nov-Mar
+448,Jaipur City,Rajasthan,City,8.531272859,Oct-Mar
+449,Kerala Backwaters,Kerala,Nature,7.900632193,Sep-Mar
+450,Leh Ladakh,Jammu and Kashmir,Adventure,8.390879273,Apr-Jun
+451,Taj Mahal,Uttar Pradesh,Historical,7.948981237,Nov-Feb
+452,Goa Beaches,Goa,Beach,7.710238851,Nov-Mar
+453,Jaipur City,Rajasthan,City,8.42602682,Oct-Mar
+454,Kerala Backwaters,Kerala,Nature,8.250765566,Sep-Mar
+455,Leh Ladakh,Jammu and Kashmir,Adventure,7.889359194,Apr-Jun
+456,Taj Mahal,Uttar Pradesh,Historical,7.509850241,Nov-Feb
+457,Goa Beaches,Goa,Beach,9.348468751,Nov-Mar
+458,Jaipur City,Rajasthan,City,9.048845046,Oct-Mar
+459,Kerala Backwaters,Kerala,Nature,8.23103403,Sep-Mar
+460,Leh Ladakh,Jammu and Kashmir,Adventure,8.254492209,Apr-Jun
+461,Taj Mahal,Uttar Pradesh,Historical,8.540493347,Nov-Feb
+462,Goa Beaches,Goa,Beach,7.625998221,Nov-Mar
+463,Jaipur City,Rajasthan,City,8.981270231,Oct-Mar
+464,Kerala Backwaters,Kerala,Nature,8.555128224,Sep-Mar
+465,Leh Ladakh,Jammu and Kashmir,Adventure,7.761543598,Apr-Jun
+466,Taj Mahal,Uttar Pradesh,Historical,8.250898706,Nov-Feb
+467,Goa Beaches,Goa,Beach,8.025486409,Nov-Mar
+468,Jaipur City,Rajasthan,City,9.479101518,Oct-Mar
+469,Kerala Backwaters,Kerala,Nature,8.661784765,Sep-Mar
+470,Leh Ladakh,Jammu and Kashmir,Adventure,8.931950952,Apr-Jun
+471,Taj Mahal,Uttar Pradesh,Historical,9.431015219,Nov-Feb
+472,Goa Beaches,Goa,Beach,9.276219098,Nov-Mar
+473,Jaipur City,Rajasthan,City,8.138557734,Oct-Mar
+474,Kerala Backwaters,Kerala,Nature,7.780303814,Sep-Mar
+475,Leh Ladakh,Jammu and Kashmir,Adventure,8.439314464,Apr-Jun
+476,Taj Mahal,Uttar Pradesh,Historical,8.593932856,Nov-Feb
+477,Goa Beaches,Goa,Beach,9.061411819,Nov-Mar
+478,Jaipur City,Rajasthan,City,8.74602754,Oct-Mar
+479,Kerala Backwaters,Kerala,Nature,8.432522163,Sep-Mar
+480,Leh Ladakh,Jammu and Kashmir,Adventure,9.183226467,Apr-Jun
+481,Taj Mahal,Uttar Pradesh,Historical,8.347502108,Nov-Feb
+482,Goa Beaches,Goa,Beach,7.948762857,Nov-Mar
+483,Jaipur City,Rajasthan,City,9.187132542,Oct-Mar
+484,Kerala Backwaters,Kerala,Nature,8.361380336,Sep-Mar
+485,Leh Ladakh,Jammu and Kashmir,Adventure,9.307482015,Apr-Jun
+486,Taj Mahal,Uttar Pradesh,Historical,9.250030402,Nov-Feb
+487,Goa Beaches,Goa,Beach,8.062331361,Nov-Mar
+488,Jaipur City,Rajasthan,City,8.654607164,Oct-Mar
+489,Kerala Backwaters,Kerala,Nature,8.633724983,Sep-Mar
+490,Leh Ladakh,Jammu and Kashmir,Adventure,8.387349596,Apr-Jun
+491,Taj Mahal,Uttar Pradesh,Historical,8.208032333,Nov-Feb
+492,Goa Beaches,Goa,Beach,8.128286959,Nov-Mar
+493,Jaipur City,Rajasthan,City,8.878936494,Oct-Mar
+494,Kerala Backwaters,Kerala,Nature,8.93781254,Sep-Mar
+495,Leh Ladakh,Jammu and Kashmir,Adventure,8.414265881,Apr-Jun
+496,Taj Mahal,Uttar Pradesh,Historical,8.265509612,Nov-Feb
+497,Goa Beaches,Goa,Beach,8.698828828,Nov-Mar
+498,Jaipur City,Rajasthan,City,9.324413282,Oct-Mar
+499,Kerala Backwaters,Kerala,Nature,9.264964763,Sep-Mar
+500,Leh Ladakh,Jammu and Kashmir,Adventure,8.940107798,Apr-Jun
+501,Taj Mahal,Uttar Pradesh,Historical,8.437797979,Nov-Feb
+502,Goa Beaches,Goa,Beach,9.314545773,Nov-Mar
+503,Jaipur City,Rajasthan,City,8.918823544,Oct-Mar
+504,Kerala Backwaters,Kerala,Nature,7.992592263,Sep-Mar
+505,Leh Ladakh,Jammu and Kashmir,Adventure,8.078697969,Apr-Jun
+506,Taj Mahal,Uttar Pradesh,Historical,8.510029536,Nov-Feb
+507,Goa Beaches,Goa,Beach,8.240547501,Nov-Mar
+508,Jaipur City,Rajasthan,City,9.435963382,Oct-Mar
+509,Kerala Backwaters,Kerala,Nature,9.252045522,Sep-Mar
+510,Leh Ladakh,Jammu and Kashmir,Adventure,9.380186804,Apr-Jun
+511,Taj Mahal,Uttar Pradesh,Historical,9.219575249,Nov-Feb
+512,Goa Beaches,Goa,Beach,9.222486405,Nov-Mar
+513,Jaipur City,Rajasthan,City,9.319083493,Oct-Mar
+514,Kerala Backwaters,Kerala,Nature,7.980635862,Sep-Mar
+515,Leh Ladakh,Jammu and Kashmir,Adventure,9.481318667,Apr-Jun
+516,Taj Mahal,Uttar Pradesh,Historical,7.890656668,Nov-Feb
+517,Goa Beaches,Goa,Beach,8.715019439,Nov-Mar
+518,Jaipur City,Rajasthan,City,8.927901484,Oct-Mar
+519,Kerala Backwaters,Kerala,Nature,7.772507901,Sep-Mar
+520,Leh Ladakh,Jammu and Kashmir,Adventure,8.521876495,Apr-Jun
+521,Taj Mahal,Uttar Pradesh,Historical,9.073609022,Nov-Feb
+522,Goa Beaches,Goa,Beach,8.486706785,Nov-Mar
+523,Jaipur City,Rajasthan,City,8.998307151,Oct-Mar
+524,Kerala Backwaters,Kerala,Nature,8.20745617,Sep-Mar
+525,Leh Ladakh,Jammu and Kashmir,Adventure,8.090624069,Apr-Jun
+526,Taj Mahal,Uttar Pradesh,Historical,8.798076955,Nov-Feb
+527,Goa Beaches,Goa,Beach,9.240920637,Nov-Mar
+528,Jaipur City,Rajasthan,City,8.564171558,Oct-Mar
+529,Kerala Backwaters,Kerala,Nature,7.726465987,Sep-Mar
+530,Leh Ladakh,Jammu and Kashmir,Adventure,9.135320167,Apr-Jun
+531,Taj Mahal,Uttar Pradesh,Historical,7.819012403,Nov-Feb
+532,Goa Beaches,Goa,Beach,8.988127174,Nov-Mar
+533,Jaipur City,Rajasthan,City,7.692409735,Oct-Mar
+534,Kerala Backwaters,Kerala,Nature,8.181851283,Sep-Mar
+535,Leh Ladakh,Jammu and Kashmir,Adventure,9.17762404,Apr-Jun
+536,Taj Mahal,Uttar Pradesh,Historical,9.056460846,Nov-Feb
+537,Goa Beaches,Goa,Beach,9.187047298,Nov-Mar
+538,Jaipur City,Rajasthan,City,8.612909578,Oct-Mar
+539,Kerala Backwaters,Kerala,Nature,8.945958184,Sep-Mar
+540,Leh Ladakh,Jammu and Kashmir,Adventure,8.310861661,Apr-Jun
+541,Taj Mahal,Uttar Pradesh,Historical,8.299700199,Nov-Feb
+542,Goa Beaches,Goa,Beach,8.68210175,Nov-Mar
+543,Jaipur City,Rajasthan,City,8.997155931,Oct-Mar
+544,Kerala Backwaters,Kerala,Nature,8.517940732,Sep-Mar
+545,Leh Ladakh,Jammu and Kashmir,Adventure,7.661289356,Apr-Jun
+546,Taj Mahal,Uttar Pradesh,Historical,8.994067311,Nov-Feb
+547,Goa Beaches,Goa,Beach,8.645510419,Nov-Mar
+548,Jaipur City,Rajasthan,City,8.086168022,Oct-Mar
+549,Kerala Backwaters,Kerala,Nature,9.251772001,Sep-Mar
+550,Leh Ladakh,Jammu and Kashmir,Adventure,8.747376071,Apr-Jun
+551,Taj Mahal,Uttar Pradesh,Historical,8.374491709,Nov-Feb
+552,Goa Beaches,Goa,Beach,8.56499898,Nov-Mar
+553,Jaipur City,Rajasthan,City,9.401317818,Oct-Mar
+554,Kerala Backwaters,Kerala,Nature,9.025943211,Sep-Mar
+555,Leh Ladakh,Jammu and Kashmir,Adventure,9.042176517,Apr-Jun
+556,Taj Mahal,Uttar Pradesh,Historical,7.703776811,Nov-Feb
+557,Goa Beaches,Goa,Beach,8.67218513,Nov-Mar
+558,Jaipur City,Rajasthan,City,9.113897124,Oct-Mar
+559,Kerala Backwaters,Kerala,Nature,8.653271522,Sep-Mar
+560,Leh Ladakh,Jammu and Kashmir,Adventure,9.252519204,Apr-Jun
+561,Taj Mahal,Uttar Pradesh,Historical,9.456850744,Nov-Feb
+562,Goa Beaches,Goa,Beach,9.310527199,Nov-Mar
+563,Jaipur City,Rajasthan,City,7.952541969,Oct-Mar
+564,Kerala Backwaters,Kerala,Nature,8.870130228,Sep-Mar
+565,Leh Ladakh,Jammu and Kashmir,Adventure,8.478803438,Apr-Jun
+566,Taj Mahal,Uttar Pradesh,Historical,7.567818753,Nov-Feb
+567,Goa Beaches,Goa,Beach,9.187761001,Nov-Mar
+568,Jaipur City,Rajasthan,City,8.248703528,Oct-Mar
+569,Kerala Backwaters,Kerala,Nature,9.000157282,Sep-Mar
+570,Leh Ladakh,Jammu and Kashmir,Adventure,7.748348707,Apr-Jun
+571,Taj Mahal,Uttar Pradesh,Historical,9.193226492,Nov-Feb
+572,Goa Beaches,Goa,Beach,8.292439606,Nov-Mar
+573,Jaipur City,Rajasthan,City,9.155604744,Oct-Mar
+574,Kerala Backwaters,Kerala,Nature,7.553270853,Sep-Mar
+575,Leh Ladakh,Jammu and Kashmir,Adventure,8.419067682,Apr-Jun
+576,Taj Mahal,Uttar Pradesh,Historical,8.450301921,Nov-Feb
+577,Goa Beaches,Goa,Beach,8.207209291,Nov-Mar
+578,Jaipur City,Rajasthan,City,8.205781817,Oct-Mar
+579,Kerala Backwaters,Kerala,Nature,8.59875288,Sep-Mar
+580,Leh Ladakh,Jammu and Kashmir,Adventure,8.99830559,Apr-Jun
+581,Taj Mahal,Uttar Pradesh,Historical,9.015671518,Nov-Feb
+582,Goa Beaches,Goa,Beach,7.779308047,Nov-Mar
+583,Jaipur City,Rajasthan,City,8.456710702,Oct-Mar
+584,Kerala Backwaters,Kerala,Nature,7.877125609,Sep-Mar
+585,Leh Ladakh,Jammu and Kashmir,Adventure,8.937350085,Apr-Jun
+586,Taj Mahal,Uttar Pradesh,Historical,7.569722658,Nov-Feb
+587,Goa Beaches,Goa,Beach,7.768523623,Nov-Mar
+588,Jaipur City,Rajasthan,City,9.180141735,Oct-Mar
+589,Kerala Backwaters,Kerala,Nature,9.427997306,Sep-Mar
+590,Leh Ladakh,Jammu and Kashmir,Adventure,8.171090109,Apr-Jun
+591,Taj Mahal,Uttar Pradesh,Historical,8.148297385,Nov-Feb
+592,Goa Beaches,Goa,Beach,9.168100701,Nov-Mar
+593,Jaipur City,Rajasthan,City,9.468508271,Oct-Mar
+594,Kerala Backwaters,Kerala,Nature,8.618563706,Sep-Mar
+595,Leh Ladakh,Jammu and Kashmir,Adventure,9.446618128,Apr-Jun
+596,Taj Mahal,Uttar Pradesh,Historical,7.865548979,Nov-Feb
+597,Goa Beaches,Goa,Beach,7.735247906,Nov-Mar
+598,Jaipur City,Rajasthan,City,7.754720779,Oct-Mar
+599,Kerala Backwaters,Kerala,Nature,9.463041122,Sep-Mar
+600,Leh Ladakh,Jammu and Kashmir,Adventure,9.390934664,Apr-Jun
+601,Taj Mahal,Uttar Pradesh,Historical,7.679434821,Nov-Feb
+602,Goa Beaches,Goa,Beach,8.330784565,Nov-Mar
+603,Jaipur City,Rajasthan,City,8.517017713,Oct-Mar
+604,Kerala Backwaters,Kerala,Nature,9.298998287,Sep-Mar
+605,Leh Ladakh,Jammu and Kashmir,Adventure,9.015692414,Apr-Jun
+606,Taj Mahal,Uttar Pradesh,Historical,7.645870324,Nov-Feb
+607,Goa Beaches,Goa,Beach,7.652012351,Nov-Mar
+608,Jaipur City,Rajasthan,City,8.443802952,Oct-Mar
+609,Kerala Backwaters,Kerala,Nature,8.295686417,Sep-Mar
+610,Leh Ladakh,Jammu and Kashmir,Adventure,7.940660734,Apr-Jun
+611,Taj Mahal,Uttar Pradesh,Historical,9.342123928,Nov-Feb
+612,Goa Beaches,Goa,Beach,7.582948969,Nov-Mar
+613,Jaipur City,Rajasthan,City,7.893422692,Oct-Mar
+614,Kerala Backwaters,Kerala,Nature,9.003574785,Sep-Mar
+615,Leh Ladakh,Jammu and Kashmir,Adventure,8.810690634,Apr-Jun
+616,Taj Mahal,Uttar Pradesh,Historical,9.200376502,Nov-Feb
+617,Goa Beaches,Goa,Beach,9.097017239,Nov-Mar
+618,Jaipur City,Rajasthan,City,8.392153666,Oct-Mar
+619,Kerala Backwaters,Kerala,Nature,9.434544322,Sep-Mar
+620,Leh Ladakh,Jammu and Kashmir,Adventure,8.896288153,Apr-Jun
+621,Taj Mahal,Uttar Pradesh,Historical,7.820265199,Nov-Feb
+622,Goa Beaches,Goa,Beach,8.642272298,Nov-Mar
+623,Jaipur City,Rajasthan,City,7.809114532,Oct-Mar
+624,Kerala Backwaters,Kerala,Nature,8.331131728,Sep-Mar
+625,Leh Ladakh,Jammu and Kashmir,Adventure,8.352057126,Apr-Jun
+626,Taj Mahal,Uttar Pradesh,Historical,7.649857558,Nov-Feb
+627,Goa Beaches,Goa,Beach,7.949828337,Nov-Mar
+628,Jaipur City,Rajasthan,City,9.283907838,Oct-Mar
+629,Kerala Backwaters,Kerala,Nature,7.674024425,Sep-Mar
+630,Leh Ladakh,Jammu and Kashmir,Adventure,9.264541565,Apr-Jun
+631,Taj Mahal,Uttar Pradesh,Historical,8.691737654,Nov-Feb
+632,Goa Beaches,Goa,Beach,7.876158567,Nov-Mar
+633,Jaipur City,Rajasthan,City,8.038341365,Oct-Mar
+634,Kerala Backwaters,Kerala,Nature,8.330602251,Sep-Mar
+635,Leh Ladakh,Jammu and Kashmir,Adventure,8.512680032,Apr-Jun
+636,Taj Mahal,Uttar Pradesh,Historical,8.591103124,Nov-Feb
+637,Goa Beaches,Goa,Beach,9.155871192,Nov-Mar
+638,Jaipur City,Rajasthan,City,9.31511956,Oct-Mar
+639,Kerala Backwaters,Kerala,Nature,9.081925622,Sep-Mar
+640,Leh Ladakh,Jammu and Kashmir,Adventure,8.009714715,Apr-Jun
+641,Taj Mahal,Uttar Pradesh,Historical,8.559749377,Nov-Feb
+642,Goa Beaches,Goa,Beach,9.30470555,Nov-Mar
+643,Jaipur City,Rajasthan,City,9.300321813,Oct-Mar
+644,Kerala Backwaters,Kerala,Nature,9.189377296,Sep-Mar
+645,Leh Ladakh,Jammu and Kashmir,Adventure,9.161029661,Apr-Jun
+646,Taj Mahal,Uttar Pradesh,Historical,8.903494513,Nov-Feb
+647,Goa Beaches,Goa,Beach,9.008751898,Nov-Mar
+648,Jaipur City,Rajasthan,City,8.771306422,Oct-Mar
+649,Kerala Backwaters,Kerala,Nature,8.167683021,Sep-Mar
+650,Leh Ladakh,Jammu and Kashmir,Adventure,8.204607884,Apr-Jun
+651,Taj Mahal,Uttar Pradesh,Historical,9.464391796,Nov-Feb
+652,Goa Beaches,Goa,Beach,7.956162813,Nov-Mar
+653,Jaipur City,Rajasthan,City,9.496920385,Oct-Mar
+654,Kerala Backwaters,Kerala,Nature,8.441880662,Sep-Mar
+655,Leh Ladakh,Jammu and Kashmir,Adventure,8.76970521,Apr-Jun
+656,Taj Mahal,Uttar Pradesh,Historical,9.032216296,Nov-Feb
+657,Goa Beaches,Goa,Beach,9.350623283,Nov-Mar
+658,Jaipur City,Rajasthan,City,9.008048228,Oct-Mar
+659,Kerala Backwaters,Kerala,Nature,7.991928056,Sep-Mar
+660,Leh Ladakh,Jammu and Kashmir,Adventure,7.923387964,Apr-Jun
+661,Taj Mahal,Uttar Pradesh,Historical,9.3495136,Nov-Feb
+662,Goa Beaches,Goa,Beach,7.848867269,Nov-Mar
+663,Jaipur City,Rajasthan,City,8.822604312,Oct-Mar
+664,Kerala Backwaters,Kerala,Nature,7.975932403,Sep-Mar
+665,Leh Ladakh,Jammu and Kashmir,Adventure,8.175473129,Apr-Jun
+666,Taj Mahal,Uttar Pradesh,Historical,8.535347955,Nov-Feb
+667,Goa Beaches,Goa,Beach,7.970160845,Nov-Mar
+668,Jaipur City,Rajasthan,City,7.593849734,Oct-Mar
+669,Kerala Backwaters,Kerala,Nature,7.84062243,Sep-Mar
+670,Leh Ladakh,Jammu and Kashmir,Adventure,7.809939226,Apr-Jun
+671,Taj Mahal,Uttar Pradesh,Historical,9.406991631,Nov-Feb
+672,Goa Beaches,Goa,Beach,7.68733681,Nov-Mar
+673,Jaipur City,Rajasthan,City,7.81840781,Oct-Mar
+674,Kerala Backwaters,Kerala,Nature,8.000500722,Sep-Mar
+675,Leh Ladakh,Jammu and Kashmir,Adventure,8.944718004,Apr-Jun
+676,Taj Mahal,Uttar Pradesh,Historical,9.263552559,Nov-Feb
+677,Goa Beaches,Goa,Beach,8.565346616,Nov-Mar
+678,Jaipur City,Rajasthan,City,8.104480471,Oct-Mar
+679,Kerala Backwaters,Kerala,Nature,7.841584037,Sep-Mar
+680,Leh Ladakh,Jammu and Kashmir,Adventure,9.159638354,Apr-Jun
+681,Taj Mahal,Uttar Pradesh,Historical,8.748130653,Nov-Feb
+682,Goa Beaches,Goa,Beach,8.577900963,Nov-Mar
+683,Jaipur City,Rajasthan,City,8.41904082,Oct-Mar
+684,Kerala Backwaters,Kerala,Nature,9.465996075,Sep-Mar
+685,Leh Ladakh,Jammu and Kashmir,Adventure,7.598827165,Apr-Jun
+686,Taj Mahal,Uttar Pradesh,Historical,8.260858752,Nov-Feb
+687,Goa Beaches,Goa,Beach,8.036441482,Nov-Mar
+688,Jaipur City,Rajasthan,City,8.056619012,Oct-Mar
+689,Kerala Backwaters,Kerala,Nature,8.133852314,Sep-Mar
+690,Leh Ladakh,Jammu and Kashmir,Adventure,8.195260135,Apr-Jun
+691,Taj Mahal,Uttar Pradesh,Historical,8.887068417,Nov-Feb
+692,Goa Beaches,Goa,Beach,8.822980009,Nov-Mar
+693,Jaipur City,Rajasthan,City,8.397475309,Oct-Mar
+694,Kerala Backwaters,Kerala,Nature,9.227763246,Sep-Mar
+695,Leh Ladakh,Jammu and Kashmir,Adventure,9.288646089,Apr-Jun
+696,Taj Mahal,Uttar Pradesh,Historical,8.627961322,Nov-Feb
+697,Goa Beaches,Goa,Beach,8.419227436,Nov-Mar
+698,Jaipur City,Rajasthan,City,8.305889899,Oct-Mar
+699,Kerala Backwaters,Kerala,Nature,7.656962614,Sep-Mar
+700,Leh Ladakh,Jammu and Kashmir,Adventure,8.878652899,Apr-Jun
+701,Taj Mahal,Uttar Pradesh,Historical,8.814028636,Nov-Feb
+702,Goa Beaches,Goa,Beach,9.111768717,Nov-Mar
+703,Jaipur City,Rajasthan,City,8.563698042,Oct-Mar
+704,Kerala Backwaters,Kerala,Nature,7.917510992,Sep-Mar
+705,Leh Ladakh,Jammu and Kashmir,Adventure,8.371945151,Apr-Jun
+706,Taj Mahal,Uttar Pradesh,Historical,9.02374639,Nov-Feb
+707,Goa Beaches,Goa,Beach,8.62911875,Nov-Mar
+708,Jaipur City,Rajasthan,City,8.844219598,Oct-Mar
+709,Kerala Backwaters,Kerala,Nature,9.155527396,Sep-Mar
+710,Leh Ladakh,Jammu and Kashmir,Adventure,9.031524747,Apr-Jun
+711,Taj Mahal,Uttar Pradesh,Historical,8.636551596,Nov-Feb
+712,Goa Beaches,Goa,Beach,8.810464389,Nov-Mar
+713,Jaipur City,Rajasthan,City,8.244553687,Oct-Mar
+714,Kerala Backwaters,Kerala,Nature,8.655670235,Sep-Mar
+715,Leh Ladakh,Jammu and Kashmir,Adventure,8.402277983,Apr-Jun
+716,Taj Mahal,Uttar Pradesh,Historical,8.878654588,Nov-Feb
+717,Goa Beaches,Goa,Beach,8.367306496,Nov-Mar
+718,Jaipur City,Rajasthan,City,9.203460228,Oct-Mar
+719,Kerala Backwaters,Kerala,Nature,8.603678777,Sep-Mar
+720,Leh Ladakh,Jammu and Kashmir,Adventure,8.034817273,Apr-Jun
+721,Taj Mahal,Uttar Pradesh,Historical,8.93163212,Nov-Feb
+722,Goa Beaches,Goa,Beach,9.389779698,Nov-Mar
+723,Jaipur City,Rajasthan,City,8.279131952,Oct-Mar
+724,Kerala Backwaters,Kerala,Nature,7.925686613,Sep-Mar
+725,Leh Ladakh,Jammu and Kashmir,Adventure,9.339552233,Apr-Jun
+726,Taj Mahal,Uttar Pradesh,Historical,8.182156496,Nov-Feb
+727,Goa Beaches,Goa,Beach,7.714387335,Nov-Mar
+728,Jaipur City,Rajasthan,City,9.099305628,Oct-Mar
+729,Kerala Backwaters,Kerala,Nature,8.569879157,Sep-Mar
+730,Leh Ladakh,Jammu and Kashmir,Adventure,7.89627217,Apr-Jun
+731,Taj Mahal,Uttar Pradesh,Historical,9.206443213,Nov-Feb
+732,Goa Beaches,Goa,Beach,8.465381843,Nov-Mar
+733,Jaipur City,Rajasthan,City,8.703584274,Oct-Mar
+734,Kerala Backwaters,Kerala,Nature,8.248600726,Sep-Mar
+735,Leh Ladakh,Jammu and Kashmir,Adventure,8.514869186,Apr-Jun
+736,Taj Mahal,Uttar Pradesh,Historical,9.088805186,Nov-Feb
+737,Goa Beaches,Goa,Beach,9.413701354,Nov-Mar
+738,Jaipur City,Rajasthan,City,8.053822692,Oct-Mar
+739,Kerala Backwaters,Kerala,Nature,8.372037386,Sep-Mar
+740,Leh Ladakh,Jammu and Kashmir,Adventure,9.263891739,Apr-Jun
+741,Taj Mahal,Uttar Pradesh,Historical,7.727775532,Nov-Feb
+742,Goa Beaches,Goa,Beach,8.532765537,Nov-Mar
+743,Jaipur City,Rajasthan,City,7.727596682,Oct-Mar
+744,Kerala Backwaters,Kerala,Nature,8.203211682,Sep-Mar
+745,Leh Ladakh,Jammu and Kashmir,Adventure,7.933373925,Apr-Jun
+746,Taj Mahal,Uttar Pradesh,Historical,9.059361289,Nov-Feb
+747,Goa Beaches,Goa,Beach,8.35090682,Nov-Mar
+748,Jaipur City,Rajasthan,City,8.719936426,Oct-Mar
+749,Kerala Backwaters,Kerala,Nature,8.93173656,Sep-Mar
+750,Leh Ladakh,Jammu and Kashmir,Adventure,8.956458953,Apr-Jun
+751,Taj Mahal,Uttar Pradesh,Historical,7.790538404,Nov-Feb
+752,Goa Beaches,Goa,Beach,8.539108136,Nov-Mar
+753,Jaipur City,Rajasthan,City,8.594748337,Oct-Mar
+754,Kerala Backwaters,Kerala,Nature,8.084015245,Sep-Mar
+755,Leh Ladakh,Jammu and Kashmir,Adventure,7.734281734,Apr-Jun
+756,Taj Mahal,Uttar Pradesh,Historical,8.547608275,Nov-Feb
+757,Goa Beaches,Goa,Beach,7.644463431,Nov-Mar
+758,Jaipur City,Rajasthan,City,9.121395353,Oct-Mar
+759,Kerala Backwaters,Kerala,Nature,8.727517592,Sep-Mar
+760,Leh Ladakh,Jammu and Kashmir,Adventure,8.352180026,Apr-Jun
+761,Taj Mahal,Uttar Pradesh,Historical,9.360142316,Nov-Feb
+762,Goa Beaches,Goa,Beach,8.1478115,Nov-Mar
+763,Jaipur City,Rajasthan,City,8.902575504,Oct-Mar
+764,Kerala Backwaters,Kerala,Nature,8.50672406,Sep-Mar
+765,Leh Ladakh,Jammu and Kashmir,Adventure,8.624586257,Apr-Jun
+766,Taj Mahal,Uttar Pradesh,Historical,8.145328815,Nov-Feb
+767,Goa Beaches,Goa,Beach,8.243622218,Nov-Mar
+768,Jaipur City,Rajasthan,City,7.59663444,Oct-Mar
+769,Kerala Backwaters,Kerala,Nature,7.576635983,Sep-Mar
+770,Leh Ladakh,Jammu and Kashmir,Adventure,9.0810296,Apr-Jun
+771,Taj Mahal,Uttar Pradesh,Historical,8.129988977,Nov-Feb
+772,Goa Beaches,Goa,Beach,9.137327132,Nov-Mar
+773,Jaipur City,Rajasthan,City,8.784997932,Oct-Mar
+774,Kerala Backwaters,Kerala,Nature,8.038663649,Sep-Mar
+775,Leh Ladakh,Jammu and Kashmir,Adventure,8.079156318,Apr-Jun
+776,Taj Mahal,Uttar Pradesh,Historical,8.459363313,Nov-Feb
+777,Goa Beaches,Goa,Beach,9.046231352,Nov-Mar
+778,Jaipur City,Rajasthan,City,9.200907306,Oct-Mar
+779,Kerala Backwaters,Kerala,Nature,8.861507016,Sep-Mar
+780,Leh Ladakh,Jammu and Kashmir,Adventure,9.291685938,Apr-Jun
+781,Taj Mahal,Uttar Pradesh,Historical,8.531079522,Nov-Feb
+782,Goa Beaches,Goa,Beach,8.997832251,Nov-Mar
+783,Jaipur City,Rajasthan,City,8.528348194,Oct-Mar
+784,Kerala Backwaters,Kerala,Nature,8.31788274,Sep-Mar
+785,Leh Ladakh,Jammu and Kashmir,Adventure,9.366933345,Apr-Jun
+786,Taj Mahal,Uttar Pradesh,Historical,8.389205905,Nov-Feb
+787,Goa Beaches,Goa,Beach,9.44212563,Nov-Mar
+788,Jaipur City,Rajasthan,City,8.223627063,Oct-Mar
+789,Kerala Backwaters,Kerala,Nature,8.174235795,Sep-Mar
+790,Leh Ladakh,Jammu and Kashmir,Adventure,9.157720702,Apr-Jun
+791,Taj Mahal,Uttar Pradesh,Historical,9.421688098,Nov-Feb
+792,Goa Beaches,Goa,Beach,7.505628741,Nov-Mar
+793,Jaipur City,Rajasthan,City,7.78158026,Oct-Mar
+794,Kerala Backwaters,Kerala,Nature,8.531159788,Sep-Mar
+795,Leh Ladakh,Jammu and Kashmir,Adventure,8.189514728,Apr-Jun
+796,Taj Mahal,Uttar Pradesh,Historical,9.243698789,Nov-Feb
+797,Goa Beaches,Goa,Beach,9.120638441,Nov-Mar
+798,Jaipur City,Rajasthan,City,7.608875043,Oct-Mar
+799,Kerala Backwaters,Kerala,Nature,9.078902378,Sep-Mar
+800,Leh Ladakh,Jammu and Kashmir,Adventure,7.97203091,Apr-Jun
+801,Taj Mahal,Uttar Pradesh,Historical,9.157148626,Nov-Feb
+802,Goa Beaches,Goa,Beach,9.410831094,Nov-Mar
+803,Jaipur City,Rajasthan,City,9.310459572,Oct-Mar
+804,Kerala Backwaters,Kerala,Nature,8.208242453,Sep-Mar
+805,Leh Ladakh,Jammu and Kashmir,Adventure,8.41014171,Apr-Jun
+806,Taj Mahal,Uttar Pradesh,Historical,8.576757877,Nov-Feb
+807,Goa Beaches,Goa,Beach,9.17899403,Nov-Mar
+808,Jaipur City,Rajasthan,City,8.014068811,Oct-Mar
+809,Kerala Backwaters,Kerala,Nature,7.84425667,Sep-Mar
+810,Leh Ladakh,Jammu and Kashmir,Adventure,8.161053311,Apr-Jun
+811,Taj Mahal,Uttar Pradesh,Historical,9.393805813,Nov-Feb
+812,Goa Beaches,Goa,Beach,9.00678474,Nov-Mar
+813,Jaipur City,Rajasthan,City,8.336255249,Oct-Mar
+814,Kerala Backwaters,Kerala,Nature,7.589205999,Sep-Mar
+815,Leh Ladakh,Jammu and Kashmir,Adventure,9.220824441,Apr-Jun
+816,Taj Mahal,Uttar Pradesh,Historical,9.423987379,Nov-Feb
+817,Goa Beaches,Goa,Beach,7.999026975,Nov-Mar
+818,Jaipur City,Rajasthan,City,8.385706717,Oct-Mar
+819,Kerala Backwaters,Kerala,Nature,7.562622504,Sep-Mar
+820,Leh Ladakh,Jammu and Kashmir,Adventure,8.772244497,Apr-Jun
+821,Taj Mahal,Uttar Pradesh,Historical,8.853137683,Nov-Feb
+822,Goa Beaches,Goa,Beach,9.228896756,Nov-Mar
+823,Jaipur City,Rajasthan,City,8.501224869,Oct-Mar
+824,Kerala Backwaters,Kerala,Nature,9.206043311,Sep-Mar
+825,Leh Ladakh,Jammu and Kashmir,Adventure,7.943715894,Apr-Jun
+826,Taj Mahal,Uttar Pradesh,Historical,8.277156854,Nov-Feb
+827,Goa Beaches,Goa,Beach,8.377495779,Nov-Mar
+828,Jaipur City,Rajasthan,City,7.804063905,Oct-Mar
+829,Kerala Backwaters,Kerala,Nature,9.073371867,Sep-Mar
+830,Leh Ladakh,Jammu and Kashmir,Adventure,7.928094923,Apr-Jun
+831,Taj Mahal,Uttar Pradesh,Historical,8.771961835,Nov-Feb
+832,Goa Beaches,Goa,Beach,9.366867008,Nov-Mar
+833,Jaipur City,Rajasthan,City,7.976891811,Oct-Mar
+834,Kerala Backwaters,Kerala,Nature,8.329340966,Sep-Mar
+835,Leh Ladakh,Jammu and Kashmir,Adventure,8.622267855,Apr-Jun
+836,Taj Mahal,Uttar Pradesh,Historical,7.789458969,Nov-Feb
+837,Goa Beaches,Goa,Beach,9.492706285,Nov-Mar
+838,Jaipur City,Rajasthan,City,7.651189907,Oct-Mar
+839,Kerala Backwaters,Kerala,Nature,9.196737201,Sep-Mar
+840,Leh Ladakh,Jammu and Kashmir,Adventure,7.933518733,Apr-Jun
+841,Taj Mahal,Uttar Pradesh,Historical,8.641198251,Nov-Feb
+842,Goa Beaches,Goa,Beach,8.784629096,Nov-Mar
+843,Jaipur City,Rajasthan,City,9.191194973,Oct-Mar
+844,Kerala Backwaters,Kerala,Nature,9.173580627,Sep-Mar
+845,Leh Ladakh,Jammu and Kashmir,Adventure,8.66944927,Apr-Jun
+846,Taj Mahal,Uttar Pradesh,Historical,8.971338259,Nov-Feb
+847,Goa Beaches,Goa,Beach,7.790585198,Nov-Mar
+848,Jaipur City,Rajasthan,City,9.029919743,Oct-Mar
+849,Kerala Backwaters,Kerala,Nature,8.749274376,Sep-Mar
+850,Leh Ladakh,Jammu and Kashmir,Adventure,8.644911366,Apr-Jun
+851,Taj Mahal,Uttar Pradesh,Historical,9.335441126,Nov-Feb
+852,Goa Beaches,Goa,Beach,8.287492092,Nov-Mar
+853,Jaipur City,Rajasthan,City,9.046944772,Oct-Mar
+854,Kerala Backwaters,Kerala,Nature,9.338103885,Sep-Mar
+855,Leh Ladakh,Jammu and Kashmir,Adventure,8.913268955,Apr-Jun
+856,Taj Mahal,Uttar Pradesh,Historical,7.668691909,Nov-Feb
+857,Goa Beaches,Goa,Beach,9.027677155,Nov-Mar
+858,Jaipur City,Rajasthan,City,8.491365338,Oct-Mar
+859,Kerala Backwaters,Kerala,Nature,7.921623279,Sep-Mar
+860,Leh Ladakh,Jammu and Kashmir,Adventure,7.720224496,Apr-Jun
+861,Taj Mahal,Uttar Pradesh,Historical,7.824049108,Nov-Feb
+862,Goa Beaches,Goa,Beach,8.527437467,Nov-Mar
+863,Jaipur City,Rajasthan,City,7.528856525,Oct-Mar
+864,Kerala Backwaters,Kerala,Nature,9.147968243,Sep-Mar
+865,Leh Ladakh,Jammu and Kashmir,Adventure,8.989187748,Apr-Jun
+866,Taj Mahal,Uttar Pradesh,Historical,8.157522251,Nov-Feb
+867,Goa Beaches,Goa,Beach,7.54478424,Nov-Mar
+868,Jaipur City,Rajasthan,City,8.498230857,Oct-Mar
+869,Kerala Backwaters,Kerala,Nature,7.677870327,Sep-Mar
+870,Leh Ladakh,Jammu and Kashmir,Adventure,8.316623635,Apr-Jun
+871,Taj Mahal,Uttar Pradesh,Historical,7.643206988,Nov-Feb
+872,Goa Beaches,Goa,Beach,9.413328344,Nov-Mar
+873,Jaipur City,Rajasthan,City,9.231967797,Oct-Mar
+874,Kerala Backwaters,Kerala,Nature,8.671636575,Sep-Mar
+875,Leh Ladakh,Jammu and Kashmir,Adventure,8.982970017,Apr-Jun
+876,Taj Mahal,Uttar Pradesh,Historical,8.796715429,Nov-Feb
+877,Goa Beaches,Goa,Beach,7.911432524,Nov-Mar
+878,Jaipur City,Rajasthan,City,7.601483088,Oct-Mar
+879,Kerala Backwaters,Kerala,Nature,8.309631134,Sep-Mar
+880,Leh Ladakh,Jammu and Kashmir,Adventure,8.442750358,Apr-Jun
+881,Taj Mahal,Uttar Pradesh,Historical,8.27829177,Nov-Feb
+882,Goa Beaches,Goa,Beach,8.449238006,Nov-Mar
+883,Jaipur City,Rajasthan,City,7.954942388,Oct-Mar
+884,Kerala Backwaters,Kerala,Nature,9.241444803,Sep-Mar
+885,Leh Ladakh,Jammu and Kashmir,Adventure,9.031913943,Apr-Jun
+886,Taj Mahal,Uttar Pradesh,Historical,7.713067195,Nov-Feb
+887,Goa Beaches,Goa,Beach,7.590325473,Nov-Mar
+888,Jaipur City,Rajasthan,City,8.968588467,Oct-Mar
+889,Kerala Backwaters,Kerala,Nature,9.002930521,Sep-Mar
+890,Leh Ladakh,Jammu and Kashmir,Adventure,7.743039575,Apr-Jun
+891,Taj Mahal,Uttar Pradesh,Historical,9.223991095,Nov-Feb
+892,Goa Beaches,Goa,Beach,8.864328395,Nov-Mar
+893,Jaipur City,Rajasthan,City,8.375786034,Oct-Mar
+894,Kerala Backwaters,Kerala,Nature,8.815596905,Sep-Mar
+895,Leh Ladakh,Jammu and Kashmir,Adventure,8.011096327,Apr-Jun
+896,Taj Mahal,Uttar Pradesh,Historical,8.775168604,Nov-Feb
+897,Goa Beaches,Goa,Beach,8.342976754,Nov-Mar
+898,Jaipur City,Rajasthan,City,8.311533772,Oct-Mar
+899,Kerala Backwaters,Kerala,Nature,8.57530472,Sep-Mar
+900,Leh Ladakh,Jammu and Kashmir,Adventure,8.81228743,Apr-Jun
+901,Taj Mahal,Uttar Pradesh,Historical,7.943843806,Nov-Feb
+902,Goa Beaches,Goa,Beach,9.115849499,Nov-Mar
+903,Jaipur City,Rajasthan,City,8.253494746,Oct-Mar
+904,Kerala Backwaters,Kerala,Nature,8.574376628,Sep-Mar
+905,Leh Ladakh,Jammu and Kashmir,Adventure,8.13644499,Apr-Jun
+906,Taj Mahal,Uttar Pradesh,Historical,8.619770095,Nov-Feb
+907,Goa Beaches,Goa,Beach,8.069149587,Nov-Mar
+908,Jaipur City,Rajasthan,City,8.452641011,Oct-Mar
+909,Kerala Backwaters,Kerala,Nature,8.74040067,Sep-Mar
+910,Leh Ladakh,Jammu and Kashmir,Adventure,8.569335477,Apr-Jun
+911,Taj Mahal,Uttar Pradesh,Historical,7.685181358,Nov-Feb
+912,Goa Beaches,Goa,Beach,9.438013884,Nov-Mar
+913,Jaipur City,Rajasthan,City,7.588014606,Oct-Mar
+914,Kerala Backwaters,Kerala,Nature,9.285417261,Sep-Mar
+915,Leh Ladakh,Jammu and Kashmir,Adventure,7.851121958,Apr-Jun
+916,Taj Mahal,Uttar Pradesh,Historical,9.396761498,Nov-Feb
+917,Goa Beaches,Goa,Beach,7.545108072,Nov-Mar
+918,Jaipur City,Rajasthan,City,9.371201914,Oct-Mar
+919,Kerala Backwaters,Kerala,Nature,9.252136618,Sep-Mar
+920,Leh Ladakh,Jammu and Kashmir,Adventure,7.58467963,Apr-Jun
+921,Taj Mahal,Uttar Pradesh,Historical,8.685684923,Nov-Feb
+922,Goa Beaches,Goa,Beach,9.298024385,Nov-Mar
+923,Jaipur City,Rajasthan,City,7.821684369,Oct-Mar
+924,Kerala Backwaters,Kerala,Nature,8.644015149,Sep-Mar
+925,Leh Ladakh,Jammu and Kashmir,Adventure,7.801125565,Apr-Jun
+926,Taj Mahal,Uttar Pradesh,Historical,8.324741876,Nov-Feb
+927,Goa Beaches,Goa,Beach,7.741214134,Nov-Mar
+928,Jaipur City,Rajasthan,City,8.026833744,Oct-Mar
+929,Kerala Backwaters,Kerala,Nature,8.663189053,Sep-Mar
+930,Leh Ladakh,Jammu and Kashmir,Adventure,8.54331106,Apr-Jun
+931,Taj Mahal,Uttar Pradesh,Historical,9.309322897,Nov-Feb
+932,Goa Beaches,Goa,Beach,7.93600433,Nov-Mar
+933,Jaipur City,Rajasthan,City,9.274200566,Oct-Mar
+934,Kerala Backwaters,Kerala,Nature,7.904577589,Sep-Mar
+935,Leh Ladakh,Jammu and Kashmir,Adventure,8.473490132,Apr-Jun
+936,Taj Mahal,Uttar Pradesh,Historical,8.020558973,Nov-Feb
+937,Goa Beaches,Goa,Beach,8.257655226,Nov-Mar
+938,Jaipur City,Rajasthan,City,9.206080667,Oct-Mar
+939,Kerala Backwaters,Kerala,Nature,8.408724187,Sep-Mar
+940,Leh Ladakh,Jammu and Kashmir,Adventure,7.73770749,Apr-Jun
+941,Taj Mahal,Uttar Pradesh,Historical,8.645046759,Nov-Feb
+942,Goa Beaches,Goa,Beach,8.702652456,Nov-Mar
+943,Jaipur City,Rajasthan,City,9.106183997,Oct-Mar
+944,Kerala Backwaters,Kerala,Nature,9.42965008,Sep-Mar
+945,Leh Ladakh,Jammu and Kashmir,Adventure,7.537510611,Apr-Jun
+946,Taj Mahal,Uttar Pradesh,Historical,8.012249945,Nov-Feb
+947,Goa Beaches,Goa,Beach,7.619280847,Nov-Mar
+948,Jaipur City,Rajasthan,City,7.70877272,Oct-Mar
+949,Kerala Backwaters,Kerala,Nature,9.087608839,Sep-Mar
+950,Leh Ladakh,Jammu and Kashmir,Adventure,7.671909274,Apr-Jun
+951,Taj Mahal,Uttar Pradesh,Historical,8.365692888,Nov-Feb
+952,Goa Beaches,Goa,Beach,8.123015873,Nov-Mar
+953,Jaipur City,Rajasthan,City,8.321398767,Oct-Mar
+954,Kerala Backwaters,Kerala,Nature,9.192148288,Sep-Mar
+955,Leh Ladakh,Jammu and Kashmir,Adventure,8.106762585,Apr-Jun
+956,Taj Mahal,Uttar Pradesh,Historical,9.240773308,Nov-Feb
+957,Goa Beaches,Goa,Beach,9.319617878,Nov-Mar
+958,Jaipur City,Rajasthan,City,7.932950633,Oct-Mar
+959,Kerala Backwaters,Kerala,Nature,9.052548436,Sep-Mar
+960,Leh Ladakh,Jammu and Kashmir,Adventure,8.925500312,Apr-Jun
+961,Taj Mahal,Uttar Pradesh,Historical,8.385107105,Nov-Feb
+962,Goa Beaches,Goa,Beach,9.210850999,Nov-Mar
+963,Jaipur City,Rajasthan,City,8.814343714,Oct-Mar
+964,Kerala Backwaters,Kerala,Nature,8.861841359,Sep-Mar
+965,Leh Ladakh,Jammu and Kashmir,Adventure,8.636537892,Apr-Jun
+966,Taj Mahal,Uttar Pradesh,Historical,9.140527124,Nov-Feb
+967,Goa Beaches,Goa,Beach,7.528727097,Nov-Mar
+968,Jaipur City,Rajasthan,City,9.060978552,Oct-Mar
+969,Kerala Backwaters,Kerala,Nature,9.409359527,Sep-Mar
+970,Leh Ladakh,Jammu and Kashmir,Adventure,9.013101245,Apr-Jun
+971,Taj Mahal,Uttar Pradesh,Historical,8.372423129,Nov-Feb
+972,Goa Beaches,Goa,Beach,9.215187537,Nov-Mar
+973,Jaipur City,Rajasthan,City,8.565934397,Oct-Mar
+974,Kerala Backwaters,Kerala,Nature,7.686987874,Sep-Mar
+975,Leh Ladakh,Jammu and Kashmir,Adventure,8.780722104,Apr-Jun
+976,Taj Mahal,Uttar Pradesh,Historical,8.008536059,Nov-Feb
+977,Goa Beaches,Goa,Beach,8.499576396,Nov-Mar
+978,Jaipur City,Rajasthan,City,8.519173371,Oct-Mar
+979,Kerala Backwaters,Kerala,Nature,9.081745748,Sep-Mar
+980,Leh Ladakh,Jammu and Kashmir,Adventure,9.347621265,Apr-Jun
+981,Taj Mahal,Uttar Pradesh,Historical,8.732673715,Nov-Feb
+982,Goa Beaches,Goa,Beach,8.841048136,Nov-Mar
+983,Jaipur City,Rajasthan,City,9.08021632,Oct-Mar
+984,Kerala Backwaters,Kerala,Nature,7.748098699,Sep-Mar
+985,Leh Ladakh,Jammu and Kashmir,Adventure,9.034655061,Apr-Jun
+986,Taj Mahal,Uttar Pradesh,Historical,8.108715094,Nov-Feb
+987,Goa Beaches,Goa,Beach,9.499811031,Nov-Mar
+988,Jaipur City,Rajasthan,City,7.962347871,Oct-Mar
+989,Kerala Backwaters,Kerala,Nature,8.208087955,Sep-Mar
+990,Leh Ladakh,Jammu and Kashmir,Adventure,8.117425965,Apr-Jun
+991,Taj Mahal,Uttar Pradesh,Historical,8.207388381,Nov-Feb
+992,Goa Beaches,Goa,Beach,8.114747173,Nov-Mar
+993,Jaipur City,Rajasthan,City,8.195154681,Oct-Mar
+994,Kerala Backwaters,Kerala,Nature,8.165291117,Sep-Mar
+995,Leh Ladakh,Jammu and Kashmir,Adventure,7.746367368,Apr-Jun
+996,Taj Mahal,Uttar Pradesh,Historical,8.133818191,Nov-Feb
+997,Goa Beaches,Goa,Beach,8.203518829,Nov-Mar
+998,Jaipur City,Rajasthan,City,8.30843543,Oct-Mar
+999,Kerala Backwaters,Kerala,Nature,8.961740524,Sep-Mar
+1000,Leh Ladakh,Jammu and Kashmir,Adventure,8.939036209,Apr-Jun
