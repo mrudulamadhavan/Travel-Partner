@@ -51,7 +51,7 @@ st.markdown("Enter your details below to get travel destination recommendations.
 with st.form("user_input_form"):
     user_id = st.number_input("Enter your User ID", min_value=1, step=1)
     name = st.selectbox("Select Destination Name", destinations_df['DestinationName'].unique())
-    type_ = st.selectbox("Select Destination Category", destinations_df['Category'].unique())
+    type_ = st.selectbox("Select Destination Category", destinations_df['Type'].unique())
     best_time = st.selectbox("Best Time To Visit", destinations_df['BestTimeToVisit'].unique())
     preferences = st.selectbox("Your Preferences", df['Preferences'].unique())
     num_adults = st.slider("Number of Adults", 1, 10, 2)
