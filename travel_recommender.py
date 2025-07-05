@@ -6,8 +6,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # Load model and encoders
 features = ['Name_x', 'Type', 'BestTimeToVisit', 'Preferences', 'NumberOfAdults', 'NumberOfChildren']
-model = pickle.load(open('code and dataset/model.pkl', 'rb'))
-label_encoders = pickle.load(open('code and dataset/label_encoders.pkl', 'rb'))
+model = pickle.load(open('model.pkl', 'rb'))
+label_encoders = pickle.load(open('label_encoders.pkl', 'rb'))
 
 # Load datasets
 destinations_df = pd.read_csv("code and dataset/Expanded_Destinations.csv")
